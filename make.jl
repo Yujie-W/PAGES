@@ -1,24 +1,28 @@
 using Documenter
 
+
+
+
+# Pages to generate
 pages = Any[
     "Home"          => "index.md"        ,
     "Projects"      => "projects.md"     ,
     "Publications"  => "publications.md" ,
+    "Posters"       => "posters.md"      ,
+    "Seminars"      => "seminars.md"     ,
     "Dissertations" => "dissertations.md",
 ]
 
-mathengine = MathJax(Dict(
-    :TeX => Dict(
-        :equationNumbers => Dict(:autoNumber => "AMS"),
-        :Macros => Dict(),
-    ),
-))
 
-format = Documenter.HTML(
-    prettyurls = get(ENV, "CI", nothing) == "true",
-    mathengine = mathengine,
-    collapselevel = 1,
-)
+
+
+# Make docs
+mathengine = MathJax(Dict(:TeX => Dict(:equationNumbers => Dict(:autoNumber => "AMS"),
+                                       :Macros => Dict())))
+
+format = Documenter.HTML(prettyurls = get(ENV, "CI", nothing)=="true",
+                         mathengine = mathengine,
+                         collapselevel = 1)
 
 makedocs(
     sitename = "Yujie's Website",
@@ -27,20 +31,43 @@ makedocs(
     pages = pages
 )
 
-@show pwd();
-@show readdir("build/publications");
+
+
+
+# function to replace strings
+function replace_html(file_name::String)
+    list_str   = readlines(file_name);
+    file_write = open(file_name, "w");
+    for i in eachindex(list_str)
+        list_str[i] = replace(list_str[i], "<p>&lt;details&gt; &lt;summary&gt;" => "<details><summary>");
+        list_str[i] = replace(list_str[i], "&lt;/summary&gt;</p>" => "</summary>");
+        list_str[i] = replace(list_str[i], "<p>&lt;/details&gt;</p>" => "</details>");
+        write(file_write, list_str[i] * "\n");
+    end
+
+    return nothing
+end
+
+
+
 
 # replace strings in files and write to file
-list_str   = readlines("build/publications/index.html");
-file_write = open("build/publications/index.html", "w");
-for i in eachindex(list_str)
-    list_str[i] = replace(list_str[i], "<p>&lt;details&gt; &lt;summary&gt;" => "<details><summary>");
-    list_str[i] = replace(list_str[i], "&lt;/summary&gt;</p>" => "</summary>");
-    list_str[i] = replace(list_str[i], "<p>&lt;/details&gt;</p>" => "</details>");
-    write(file_write, list_str[i] * "\n");
+file_name = "build/publications.html";
+if isfile(file_name)
+    replace_html(file_name);
+else
+    file_name = "build/publications/index.html";
+    if isfile(file_name)
+        replace_html(file_name);
+    else
+        @warn "No file found to work on, please check file names";
+    end
 end
-close(file_write);
 
+
+
+
+# Deploy docs
 deploydocs(
     repo = "github.com/Yujie-W/PAGES.git",
     target = "build",
