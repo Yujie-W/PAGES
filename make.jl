@@ -1,10 +1,10 @@
 using Documenter
 
 pages = Any[
-    "Home" => "index.md",
+    "Home"         => "index.md"       ,
+    "Projects"     => "projects.md"    ,
     "Publications" => "publications.md"
-    ]
-
+]
 
 mathengine = MathJax(Dict(
     :TeX => Dict(
