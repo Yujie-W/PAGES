@@ -1,14 +1,16 @@
 # PUBLICATIONS
 
-## In press
-
-
-
-
-## 2020
+## Featured
 
 <details>
-<summary> Y. Wang, J. S. Sperry, W. R. L. Anderegg, M. D. Venturas, and A. T. Trugman. 2020. Tansley Review: A theoretical and empirical assessment of stomatal optimization modeling. New Phytologist. 227(2): 311–325.</summary>
+<summary>
+**Y. Wang**, J. S. Sperry, W. R. L. Anderegg, M. D. Venturas, and A. T. Trugman. 2020.
+**Tansley Review:** A theoretical and empirical assessment of stomatal optimization modeling.
+New Phytologist. 227(2): 311–325.
+[DOI](https://doi.org/10.1111/nph.16572)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical-si.pdf)
+</summary>
 
 ```
 @article{wang2020theoretical,
@@ -27,10 +29,55 @@
 
 
 
-## 2019
+## In review
+
+## In press
+
+
+
+
+## Published
+
+### 2020
 
 <details>
-<summary> J. S. Sperry, M. D. Venturas, H. N. Todd, A. T. Trugman, W. R. L. Anderegg, Y. Wang, and X. Tai. 2019. The impact of rising CO₂ and acclimation on theresponse of US forests to global warming. Proceedings of the National Academy of Sciences of the United States of America. 116(51): 25734–25744.</summary>
+<summary>
+**Y. Wang**, J. S. Sperry, W. R. L. Anderegg, M. D. Venturas, and A. T. Trugman. 2020.
+**Tansley Review:** A theoretical and empirical assessment of stomatal optimization modeling.
+New Phytologist. 227(2): 311–325.
+[DOI](https://doi.org/10.1111/nph.16572)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical-si.pdf)
+</summary>
+
+```
+@article{wang2020theoretical,
+    author = {Wang, Yujie and Sperry, John S. and Anderegg, William R. L. and Venturas, Martin D. and Trugman, Anna T.},
+    year = {2020},
+    title = {A theoretical and empirical assessment of stomatal optimization modeling},
+    journal = {New Phytologist},
+    volume = {227},
+    number = {2},
+    pages = {311--325},
+    publisher = {Wiley Online Library}
+}
+```
+</details>
+
+
+
+
+### 2019
+
+<details>
+<summary>
+J. S. Sperry, M. D. Venturas, H. N. Todd, A. T. Trugman, W. R. L. Anderegg, **Y. Wang**, and X. Tai. 2019.
+The impact of rising CO₂ and acclimation on theresponse of US forests to global warming.
+Proceedings of the National Academy of Sciences of the United States of America. 116(51): 25734–25744.
+[DOI](https://doi.org/10.1073/pnas.1913072116)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2019impact.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2019impact-si.zip)
+</summary>
 
 ```
 @article{sperry2019impact,
@@ -46,7 +93,14 @@
 </details>
 
 <details>
-<summary> A. T. Trugman, L. D. L. Anderegg, J. S. Sperry, Y. Wang, M. D. Venturas, and W. R. L. Anderegg. 2019. Leveraging plant hydraulics to yield predictive and dynamic plant leaf allocation in vegetation models with climate change. Global Change Biology. 25: 4008–4021.</summary>
+<summary>
+A. T. Trugman, L. D. L. Anderegg, J. S. Sperry, **Y. Wang**, M. D. Venturas, and W. R. L. Anderegg. 2019.
+Leveraging plant hydraulics to yield predictive and dynamic plant leaf allocation in vegetation models with climate change.
+Global Change Biology. 25: 4008–4021.
+[DOI](https://doi.org/10.1111/gcb.14814)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/trugman2019leveraging.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/trugman2019leveraging-si.pdf)
+</summary>
 
 ```
 @article{trugman2019leveraging,
@@ -63,7 +117,14 @@
 </details>
 
 <details>
-<summary>  Y. Wang, J. S. Sperry, M. D. Venturas, A. T. Trugman, D. D. Love, and W. R. L. Anderegg. 2019. The stomatal response to rising CO₂ concentration and drought is predicted by a hydraulic trait-based optimization model. Tree Physiology. 39(8): 1416–1427.</summary>
+<summary>
+**Y. Wang**, J. S. Sperry, M. D. Venturas, A. T. Trugman, D. D. Love, and W. R. L. Anderegg. 2019.
+The stomatal response to rising CO₂ concentration and drought is predicted by a hydraulic trait-based optimization model.
+Tree Physiology. 39(8): 1416–1427.
+[DOI](https://doi.org/10.1093/treephys/tpz038)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2019stomatal.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2019stomatal-si.pdf)
+</summary>
 
 ```
 @article{wang2019stomatal,
@@ -80,7 +141,14 @@
 </details>
 
 <details>
-<summary>  K. Yu, G. R. Goldsmith, Y. Wang, and W. R. L. Anderegg. 2019. Phylogenetic and biogeographic controls of plant nighttime stomatal conductance. New Phytologist. 222(4): 1778–1788.</summary>
+<summary>
+K. Yu, G. R. Goldsmith, **Y. Wang**, and W. R. L. Anderegg. 2019.
+Phylogenetic and biogeographic controls of plant nighttime stomatal conductance.
+New Phytologist. 222(4): 1778–1788.
+[DOI](https://doi.org/10.1111/nph.15755)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/yu2019phylogenetic.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/yu2019phylogenetic-si.pdf)
+</summary>
 
 ```
 @article{yu2019phylogenetic,
@@ -97,7 +165,14 @@
 </details>
 
 <details>
-<summary>  D. M. Love, M. D. Venturas, J. S. Sperry, P. D. Brooks, J. L. Pettit, Y. Wang, and W. R. L. Anderegg. 2018. Dependence of aspen stands on a subsurface water subsidy: Implications for climate change impacts. Water Resource Research. 55(3): 1833–1848.</summary>
+<summary>
+D. M. Love, M. D. Venturas, J. S. Sperry, P. D. Brooks, J. L. Pettit, **Y. Wang**, and W. R. L. Anderegg. 2018.
+Dependence of aspen stands on a subsurface water subsidy: Implications for climate change impacts.
+Water Resource Research. 55(3): 1833–1848.
+[DOI](https://doi.org/10.1029/2018WR023468)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/love2019dependence.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/love2019dependence-si.zip)
+</summary>
 
 ```
 @article{love2019dependence,
@@ -114,7 +189,13 @@
 </details>
 
 <details>
-<summary>  G. Du, F. Feng, Y. Wang, and M. T. Tyree. 2019. Do nano-particles cause recalcitrant vulnerability curves in Robinia? Testing with a four-cuvette Cochard rotor and with water extraction curves. Tree Physiology. 39(1): 156–165.</summary>
+<summary>
+G. Du, F. Feng, **Y. Wang**, and M. T. Tyree. 2019.
+Do nano-particles cause recalcitrant vulnerability curves in Robinia? Testing with a four-cuvette Cochard rotor and with water extraction curves.
+Tree Physiology. 39(1): 156–165.
+[DOI](https://doi.org/10.1093/treephys/tpy051)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/du2019do.pdf)
+</summary>
 
 ```
 @article{du2019nano,
@@ -133,10 +214,17 @@
 
 
 
-## 2018
+### 2018
 
 <details>
-<summary>  M. D. Venturas, J. S. Sperry, D. M. Love, E. H. Frehner, M. G. Allred, Y. Wang, and W. R. L. Anderegg. 2018. A stomatal control model based on optimization of carbon gain versus hydraulic risk predicts aspen sapling responses to drought. New Phytologist. 220(3): 836–850.</summary>
+<summary>
+M. D. Venturas, J. S. Sperry, D. M. Love, E. H. Frehner, M. G. Allred, **Y. Wang**, and W. R. L. Anderegg. 2018.
+A stomatal control model based on optimization of carbon gain versus hydraulic risk predicts aspen sapling responses to drought.
+New Phytologist. 220(3): 836–850.
+[DOI](https://doi.org/10.1111/nph.15333)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/venturas2018stomatal.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/venturas2018stomatal-si.zip)
+</summary>
 
 ```
 @article{venturas2018stomatal,
@@ -155,10 +243,17 @@
 
 
 
-## 2017
+### 2017
 
 <details>
-<summary>  J. S. Sperry, M. D. Venturas, W. R. L. Anderegg, M. Mencuccini, D. S. Mackay, Y. Wang, and D. M. Love. 2017. Predicting stomatal responses to the environment from the optimization of photosynthetic gain and hydraulic cost. Plant Cell & Environment. 40(6): 816–830.</summary>
+<summary>
+J. S. Sperry, M. D. Venturas, W. R. L. Anderegg, M. Mencuccini, D. S. Mackay, **Y. Wang**, and D. M. Love. 2017.
+Predicting stomatal responses to the environment from the optimization of photosynthetic gain and hydraulic cost.
+Plant Cell & Environment. 40(6): 816–830.
+[DOI](https://dx.doi.org/10.1111/pce.12852)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2017predicting.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2017predicting-si.pdf)
+</summary>
 
 ```
 @article{sperry2017predicting,
@@ -177,10 +272,16 @@
 
 
 
-## 2016
+### 2016
 
 <details>
-<summary>  J. S. Sperry, Y. Wang, B. T. Wolfe, D. S. Mackay, W. R. L. Anderegg, N. G. McDowell, and W. T. Pockman. 2016. Pragmatic hydraulic theory predicts stomatal responses to climatic water deficits. New Phytologist. 212(3): 577–589.</summary>
+<summary> J. S. Sperry, **Y. Wang**, B. T. Wolfe, D. S. Mackay, W. R. L. Anderegg, N. G. McDowell, and W. T. Pockman. 2016.
+Pragmatic hydraulic theory predicts stomatal responses to climatic water deficits.
+New Phytologist. 212(3): 577–589.
+[DOI](https://dx.doi.org/10.1111/nph.14059)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2016pragmatic.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2016pragmatic-si.pdf)
+</summary>
 
 ```
 @article{sperry2016pragmatic,
@@ -199,10 +300,17 @@
 
 
 
-## 2015
+### 2015
 
 <details>
-<summary>  Y. Wang, J. Liu, and M. T. Tyree. 2015. Stem hydraulic conductivity depends on the pressure at which it is measured and how this dependence can be used to assess the tempo of bubble pressurization in recently cavitated vessels. Plant Physiology. 169(4): 2597–2607.</summary>
+<summary>
+**Y. Wang**, J. Liu, and M. T. Tyree. 2015.
+Stem hydraulic conductivity depends on the pressure at which it is measured and how this dependence can be used to assess the tempo of bubble pressurization in recently cavitated vessels.
+Plant Physiology. 169(4): 2597–2607.
+[DOI](https://doi.org/10.1104/pp.15.00875)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015stem.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015stem-si.pdf)
+</summary>
 
 ```
 @article{wang2015stem,
@@ -219,7 +327,14 @@
 </details>
 
 <details>
-<summary>  Y. Wang, R. Pan, and M. T. Tyree. 2015. Studies on the tempo of bubble formation in recently cavitated vessels: A model to predict the pressure of air bubbles. Plant Physiology. 168(2): 521–531.</summary>
+<summary>
+**Y. Wang**, R. Pan, and M. T. Tyree. 2015.
+Studies on the tempo of bubble formation in recently cavitated vessels: A model to predict the pressure of air bubbles.
+Plant Physiology. 168(2): 521–531.
+[DOI](https://doi.org/10.1104/pp.114.256602)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015studies.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015studies-si.pdf)
+</summary>
 
 ```
 @article{wang2015studies,
@@ -238,10 +353,16 @@
 
 
 
-## 2014
+### 2014
 
 <details>
-<summary>  Y. Wang, R. Burlett, F. Feng, and M. T. Tyree. 2014. Improved precision of hydraulic conductance measurements using a Cochard rotor in two different centrifuges. Journal of Plant Hydraulics. 1: e-0007.</summary>
+<summary>
+**Y. Wang**, R. Burlett, F. Feng, and M. T. Tyree. 2014.
+Improved precision of hydraulic conductance measurements using a Cochard rotor in two different centrifuges.
+Journal of Plant Hydraulics. 1: e-0007.
+[DOI](http://dx.doi.org/10.20870/jph.2014.e007)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2014improved.pdf)
+</summary>
 
 ```
 @article{wang2014improved,
@@ -258,10 +379,16 @@
 
 
 
-## 2012
+### 2012
 
 <details>
-<summary>  J. Liu, P. Fu, Y. Wang, and K. Cao. 2012. Different drought-adaptation strategies as characterized by hydraulic and water-relations traits of evergreen and deciduous figs in a tropical karst forest. Plant Science Journal. 30(5): 484-493.</summary>
+<summary>
+J. Liu, P. Fu, **Y. Wang**, and K. Cao. 2012.
+Different drought-adaptation strategies as characterized by hydraulic and water-relations traits of evergreen and deciduous figs in a tropical karst forest.
+Plant Science Journal. 30(5): 484-493.
+[DOI](https://en.cnki.com.cn/Article_en/CJFDTOTAL-WZXY201205006.htm)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/liu2012different.pdf)
+</summary>
 
 ```
 @article{liu2012different,
