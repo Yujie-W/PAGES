@@ -1,4 +1,4 @@
-# Projects
+# PROJECTS
 
 ## Registered Julia Packages
 

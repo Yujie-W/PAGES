@@ -1,9 +1,10 @@
 using Documenter
 
 pages = Any[
-    "Home"         => "index.md"       ,
-    "Projects"     => "projects.md"    ,
-    "Publications" => "publications.md"
+    "Home"          => "index.md"        ,
+    "Projects"      => "projects.md"     ,
+    "Publications"  => "publications.md" ,
+    "Dissertations" => "dissertations.md",
 ]
 
 mathengine = MathJax(Dict(
