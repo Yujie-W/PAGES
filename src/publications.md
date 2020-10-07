@@ -30,7 +30,7 @@
 ## 2019
 
 <details>
-<summary> J. S. Sperry, M. D. Venturas, H. N. Todd, A. T. Trugman, W. R. L. Anderegg, Y. Wang, and X. Tai. 2019. The impact of rising CO2 and acclimation on theresponse of US forests to global warming. Proceedings of the National Academy of Sciences of the United States of America. 116{51}: 25734–25744.</summary>
+<summary> J. S. Sperry, M. D. Venturas, H. N. Todd, A. T. Trugman, W. R. L. Anderegg, Y. Wang, and X. Tai. 2019. The impact of rising CO₂ and acclimation on theresponse of US forests to global warming. Proceedings of the National Academy of Sciences of the United States of America. 116(51): 25734–25744.</summary>
 
 ```
 @article{sperry2019impact,
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary>  Y. Wang, J. S. Sperry, M. D. Venturas, A. T. Trugman, D. D. Love, and W. R. L. Anderegg. 2019. The stomatal response to rising CO2 concentration and drought is predicted by a hydraulic trait-based optimization model. Tree Physiology. 39(8): 1416–1427.</summary>
+<summary>  Y. Wang, J. S. Sperry, M. D. Venturas, A. T. Trugman, D. D. Love, and W. R. L. Anderegg. 2019. The stomatal response to rising CO₂ concentration and drought is predicted by a hydraulic trait-based optimization model. Tree Physiology. 39(8): 1416–1427.</summary>
 
 ```
 @article{wang2019stomatal,
