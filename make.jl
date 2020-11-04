@@ -7,6 +7,7 @@ using Documenter
 pages = Any[
     "Home"          => "index.md"        ,
     "Projects"      => "projects.md"     ,
+    "Methods"       => "methods.md"      ,
     "Publications"  => "publications.md" ,
     "Posters"       => "posters.md"      ,
     "Seminars"      => "seminars.md"     ,
@@ -20,9 +21,9 @@ pages = Any[
 mathengine = MathJax(Dict(:TeX => Dict(:equationNumbers => Dict(:autoNumber => "AMS"),
                                        :Macros => Dict())))
 
-format = Documenter.HTML(prettyurls = get(ENV, "CI", nothing)=="true",
-                         mathengine = mathengine,
-                         collapselevel = 1)
+format = (Documenter).HTML(prettyurls = get(ENV, "CI", nothing)=="true",
+                           mathengine = mathengine,
+                           collapselevel = 1)
 
 makedocs(
     sitename = "Yujie's Website",
@@ -71,5 +72,6 @@ end
 deploydocs(
     repo = "github.com/Yujie-W/PAGES.git",
     target = "build",
+    devbranch = "main",
     push_preview = true,
 )
