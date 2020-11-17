@@ -17,14 +17,19 @@ pages = Any[
 
 
 
-# Make docs
+# format the docs
 mathengine = MathJax(Dict(:TeX => Dict(:equationNumbers => Dict(:autoNumber => "AMS"),
                                        :Macros => Dict())))
 
 format = (Documenter).HTML(prettyurls = get(ENV, "CI", nothing)=="true",
                            mathengine = mathengine,
-                           collapselevel = 1)
+                           collapselevel = 1,
+                           assets = ["assets/favicon.ico"])
 
+
+
+
+# build the docs
 makedocs(
     sitename = "Yujie's Website",
     format = format,
@@ -52,7 +57,7 @@ end
 
 
 
-# replace strings in files and write to file
+# deploy the docs to Github gh-pages
 file_name = "build/publications.html";
 if isfile(file_name)
     replace_html(file_name);
