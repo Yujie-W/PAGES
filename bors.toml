@@ -1,4 +1,4 @@
 status = [
-    "build"
+    "docs-build"
 ]
 timeout_sec = 7200
