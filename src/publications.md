@@ -31,6 +31,18 @@ New Phytologist. 227(2): 311–325.
 
 ## In review
 
+- **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
+    A canopy profit maximization model identifies major drivers for optimal leaf investment.
+- A. Potkay, A. T. Trugman, **Y. Wang**, M. D. Venturas, W. R. L. Anderegg, C. Mattos, Y. Fan.
+    Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning
+- **Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
+    Optimization theory explains nighttime stomatal behaviors.
+- **Y. Wang**.
+    Optimization theory explains mesophyll conductance behaviors.
+
+
+
+
 ## In press
 
 

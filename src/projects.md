@@ -13,6 +13,7 @@
 | [Photosynthesis.jl](https://github.com/Yujie-W/Photosynthesis.jl)                 | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/Photosynthesis.jl/branch/main/graph/badge.svg?token=JH20JJELUO)         |
 | [PlantHydraulics.jl](https://github.com/Yujie-W/PlantHydraulics.jl)               | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/PlantHydraulics.jl/branch/main/graph/badge.svg?token=28VXUYDLCN)        |
 | [PlotPlants.jl](https://github.com/Yujie-W/PlotPlants.jl)                         | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/PlotPlants.jl/branch/main/graph/badge.svg?token=F2DOSFI8C4)             |
+| [PkgUtility.jl](https://github.com/Yujie-W/PkgUtility.jl)                         | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/PkgUtility.jl/branch/main/graph/badge.svg?token=SpEb146Dkb)             |
 | [SoilPlantAirContinuum.jl](https://github.com/Yujie-W/SoilPlantAirContinuum.jl)   | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/SoilPlantAirContinuum.jl/branch/main/graph/badge.svg?token=E063LYRWOM)  |
 | [StomataModels.jl](https://github.com/Yujie-W/StomataModels.jl)                   | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/StomataModels.jl/branch/main/graph/badge.svg?token=WQQLE5M34Y)          |
 | [WaterPhysics.jl](https://github.com/Yujie-W/WaterPhysics.jl)                     | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/WaterPhysics.jl/branch/main/graph/badge.svg?token=ASOJ17A5Z4)           |
