@@ -30,13 +30,3 @@
 | [PAGES](https://github.com/Yujie-W/PAGES)                         | Yujie Wang        |
 | [ResearchArtifacts](https://github.com/Yujie-W/ResearchArtifacts) | Yujie Wang        |
 ||||
-
-
-
-
-## Private Packages
-
-| **Package Name**                                                | **Maintained by** | **Code Coverage**                                                                                         |
-|:----------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------------------------------------|
-| [ResearchProjects](https://github.com/Yujie-W/ResearchProjects) | Yujie Wang        | ![codecov](https://codecov.io/gh/Yujie-W/ResearchProjects/branch/main/graph/badge.svg?token=9C5FX2QLX9) |
-||||
