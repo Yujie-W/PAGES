@@ -21,7 +21,7 @@ jobs:
       - name: Force update registry
         run: julia -e 'using Pkg; Pkg.Registry.rm("General"); Pkg.Registry.add(RegistrySpec(url="https://github.com/JuliaRegistries/General"))'
       - name: Install Dependencies
-        run: julia --project -e 'using Pkg; Pkg.instantiate();'
+        run: julia --project -e 'ENV["PYTHON"]=""; using Pkg; Pkg.instantiate();'
       - name: Build and deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
