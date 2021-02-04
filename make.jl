@@ -57,12 +57,12 @@ end
 
 
 
-# deploy the docs to Github gh-pages
-file_name = "build/publications.html";
+# Replace the strings
+file_name = joinpath(@__DIR__, "build/publications.html");
 if isfile(file_name)
     replace_html(file_name);
 else
-    file_name = "build/publications/index.html";
+    file_name = joinpath(@__DIR__, "build/publications/index.html");
     if isfile(file_name)
         replace_html(file_name);
     else
