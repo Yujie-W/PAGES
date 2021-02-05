@@ -30,3 +30,62 @@
 | [PAGES](https://github.com/Yujie-W/PAGES)                         | Yujie Wang        |
 | [ResearchArtifacts](https://github.com/Yujie-W/ResearchArtifacts) | Yujie Wang        |
 ||||
+
+
+
+
+## Research Projects
+
+### LeafInvestment2020
+
+The writing project is hosted using email exchanges, and the code is hosted at
+    Github.
+
+| **Date**    | **Activity**                              |
+|:------------|:------------------------------------------|
+| Apr/06/2020 | First submission to Global Change Biology |
+| Jun/05/2020 | Rejection from Global Change Biology      |
+| Jun/29/2020 | Detect an error in sun/shade partition    |
+| Jul/05/2020 | Rerun the code by fixing partitioning bug |
+| Jul/15/2020 | First submission to New Phytologist       |
+| Aug/21/2020 | Rejection but resubmission encouraged     |
+| Sep/28/2020 | Move code to ResearchProjects             |
+| Oct/06/2020 | Rerun the code with better default traits |
+| Oct/21/2020 | Resubmit to New Phytologist               |
+| Nov/30/2020 | Rejection but resubmission encouraged     |
+| Dec/07/2020 | Migrate to LeafInvestment2021             |
+|||
+
+### OptimalGM2020
+
+The writing project is hosted at Overleaf, and the code project is hosted at
+    Github. History of the project:
+
+| **Date**    | **Activity**                        |
+|:------------|:------------------------------------|
+| Nov/24/2020 | Finish plotting the figures         |
+| Nov/25/2020 | First submission to New Phytologist |
+| Jan/24/2021 | Awaiting Decision                   |
+|||
+
+
+
+
+## Archived Research Projects
+
+### NocturnalGS2020
+
+The writing project is hosted at Overleaf, and the code project is hosted at
+    Github. History of the project:
+
+| **Date**    | **Activity**                        |
+|:------------|:------------------------------------|
+| Oct/19/2020 | Finish plotting the figures         |
+| Oct/22/2020 | First submission to New Phytologist |
+| Dec/10/2020 | Major revision advised              |
+| Dec/17/2020 | Switch to new model                 |
+| Jan/21/2021 | Revision 1 to New Phytologist       |
+| Jan/24/2021 | Awaiting Decision                   |
+| Feb/01/2021 | Accepted                            |
+| Feb/04/2021 | Code archived on Github             |
+|||

@@ -29,7 +29,7 @@ New Phytologist. 227(2): 311–325.
 
 
 
-## In review
+## In progree or review
 
 - **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
     A canopy profit maximization model identifies major drivers for optimal leaf investment.
