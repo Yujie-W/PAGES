@@ -1,5 +1,43 @@
 # METHODS
 
+
+
+
+## GriddingMachine.jl
+
+Preparation
+- Julia (version 1.5+)
+- Access to Github
+- Access to ftp://fluo.gps.caltech.edu (to download data)
+
+### Install GriddingMachine.jl
+- Start Julia REPL (read-eval-print loop)
+  ![Start Julia REPL](../image/gmt-1.png)
+- Type `]` in the REPL, and goes to `pkg` environment
+  ![Go to pkg environment](../image/gmt-2.png)
+- Type `add GriddingMachine`
+  ![Install GriddingMachine](../image/gmt-3.png)
+- Type `Backspace` to go back to Julia REPL
+  ![Go back to Julia REPL](../image/gmt-4.png)
+
+### Use GriddingMachine.jl
+- Type `using GriddingMachine` in Julia REPL
+  ![Use GriddingMachine](../image/gmt-5.png)
+- `lnc_lut = load_LUT(LNCButler{Float32}());`
+- `read_LUT(lnc_lut, Float32(30), Float32(-100))`
+  ![Load dataset](../image/gmt-6.png)
+- Be aware that provided lat and lon need to be the same float type as the dataset, either Float32 or Float64
+
+### Upgrade GriddingMachine.jl
+- Start Julia REPL (read-eval-print loop)
+- Type `]` in the REPL, and goes to `pkg` environment
+- Type `up` to upgrade all Julia packages
+- Type `up GriddingMachine` to upgrade GriddingMachine only
+  ![Upgrade GriddingMachine](../image/gmt-7.png)
+
+
+
+
 ## Relative leaf water content
 
 Equipments and materials required:

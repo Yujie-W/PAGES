@@ -29,8 +29,14 @@ New Phytologist. 227(2): 311–325.
 
 
 
-## In progree or review
+## In preparation or review
 
+- **Y. Wang**, C. Frankenberg, and M. T. Tyree.
+    Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
+- **Y. Wang**, L. He, and C. Frankenberg.
+    Testing stomatal optimization model at stand level using flux tower and satellite observations.
+- **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
+    GriddingMachine.jl: A tool to process and distribute global datasets.
 - **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
     A canopy profit maximization model identifies major drivers for optimal leaf investment.
 - **Y. Wang**.
