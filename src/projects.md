@@ -36,6 +36,22 @@
 
 ## Research Projects
 
+### GriddingMachine2021
+
+The writing project is hosted at Overleaf, and the code project is hosted at
+    Github. History of the project:
+
+| **Date**    | **Activity**                                         |
+|:------------|:-----------------------------------------------------|
+| Feb/08/2021 | Done GriddingMachine.jl project code                 |
+| Feb/12/2021 | First submission to Methods in Ecology and Evolution |
+|||
+
+
+
+
+## Deprecated Research Projects
+
 ### LeafInvestment2020
 
 The writing project is hosted using email exchanges, and the code is hosted at
@@ -54,6 +70,7 @@ The writing project is hosted using email exchanges, and the code is hosted at
 | Oct/21/2020 | Resubmit to New Phytologist               |
 | Nov/30/2020 | Rejection but resubmission encouraged     |
 | Dec/07/2020 | Migrate to LeafInvestment2021             |
+| Feb/15/2021 | project deprecated for future use         |
 |||
 
 ### OptimalGM2020
@@ -65,7 +82,8 @@ The writing project is hosted at Overleaf, and the code project is hosted at
 |:------------|:------------------------------------|
 | Nov/24/2020 | Finish plotting the figures         |
 | Nov/25/2020 | First submission to New Phytologist |
-| Jan/24/2021 | Awaiting Decision                   |
+| Feb/14/2021 | Rejection                           |
+| Feb/15/2021 | Project deprecated for future use   |
 |||
 
 
@@ -85,7 +103,6 @@ The writing project is hosted at Overleaf, and the code project is hosted at
 | Dec/10/2020 | Major revision advised              |
 | Dec/17/2020 | Switch to new model                 |
 | Jan/21/2021 | Revision 1 to New Phytologist       |
-| Jan/24/2021 | Awaiting Decision                   |
 | Feb/01/2021 | Accepted                            |
 | Feb/04/2021 | Code archived on Github             |
 |||
