@@ -1,11 +1,35 @@
 # PUBLICATIONS
 
-Click to display / hide the Bibtex reference.
+Click to display / hide the Bibtex information.
 
 
 
 
 ## Featured
+
+<details>
+<summary>
+**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
+Optimization theory explains nighttime stomatal responses.
+New Phytologist. 230(4): 1550-1561.
+[DOI](https://doi.org/10.1111/nph.17267)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2021optimization,
+    author = {Wang, Yujie and Anderegg, William RL and Venturas, Martin D and Trugman, Anna T and Yu, Kailiang and Frankenberg, Christian},
+    year = {2021},
+    title = {Optimization theory explains nighttime stomatal responses},
+    journal = {New Phytologist},
+    volume = {230},
+    number = {4},
+    pages = {1550--1561}
+}
+```
+</details>
 
 <details>
 <summary>
@@ -34,24 +58,7 @@ New Phytologist. 227(2): 311–325.
 
 
 
-## In preparation or review
-
-- **Y. Wang**, C. Frankenberg, and M. T. Tyree.
-    Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
-- **Y. Wang**, L. He, and C. Frankenberg.
-    Testing stomatal optimization model at stand level using flux tower and satellite observations.
-- **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
-    GriddingMachine.jl: A tool to process and distribute global datasets.
-- **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
-    A canopy profit maximization model identifies major drivers for optimal leaf investment.
-- **Y. Wang**.
-    Optimization theory explains mesophyll conductance behaviors.
-- R. K. Braghiere, **Y. Wang**, R. Doughty, D. Souza, T. Magney, J. Widlowski, M. Longo, A. Bloom, J. Worden, P. Gentine, and C. Frankenberg.
-    Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model.
-
-
-
-
+## Pending
 
 ## In press
 
@@ -75,11 +82,40 @@ New Phytologist.
 ```
 </details>
 
+
+
+
+### Under review
+- R. K. Braghiere, **Y. Wang**, R. Doughty, D. Souza, T. Magney, J. Widlowski, M. Longo, A. Bloom, J. Worden, P. Gentine, and C. Frankenberg.
+    Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model.
+- Y. Wang, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
+    Testing a stomatal optimization model at stand level in deciduous angiosperm and evergreen gymnosperm forests.
+
+
+
+
+### In preparation
+- **Y. Wang**, C. Frankenberg, and M. T. Tyree.
+    Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
+- **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
+    GriddingMachine.jl: A tool to process and distribute global datasets.
+- **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
+    A canopy profit maximization model identifies major drivers for optimal leaf investment.
+- **Y. Wang**.
+    Optimization theory explains mesophyll conductance behaviors.
+
+
+
+
+## Published
+
+### 2021
+
 <details>
 <summary>
 **Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
 Optimization theory explains nighttime stomatal responses.
-New Phytologist.
+New Phytologist. 230(4): 1550-1561.
 [DOI](https://doi.org/10.1111/nph.17267)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization-si.pdf)
@@ -91,15 +127,16 @@ New Phytologist.
     author = {Wang, Yujie and Anderegg, William RL and Venturas, Martin D and Trugman, Anna T and Yu, Kailiang and Frankenberg, Christian},
     year = {2021},
     title = {Optimization theory explains nighttime stomatal responses},
-    journal = {New Phytologist}
+    journal = {New Phytologist},
+    volume = {230},
+    number = {4},
+    pages = {1550--1561}
 }
 ```
 </details>
 
 
 
-
-## Published
 
 ### 2020
 

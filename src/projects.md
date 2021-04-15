@@ -36,6 +36,17 @@
 
 ## Research Projects
 
+### ForestTower2021
+
+The writing project is hosted at Overleaf, and the code project is hosted at
+    Github. History of the project:
+
+| **Date**    | **Activity**                        |
+|:------------|:------------------------------------|
+| Apr/13/2021 | Done project code                   |
+| Apr/14/2021 | First submission to New Phytologist |
+|||
+
 ### GriddingMachine2021
 
 The writing project is hosted at Overleaf, and the code project is hosted at
@@ -84,25 +95,4 @@ The writing project is hosted at Overleaf, and the code project is hosted at
 | Nov/25/2020 | First submission to New Phytologist |
 | Feb/14/2021 | Rejection                           |
 | Feb/15/2021 | Project deprecated for future use   |
-|||
-
-
-
-
-## Archived Research Projects
-
-### NocturnalGS2020
-
-The writing project is hosted at Overleaf, and the code project is hosted at
-    Github. History of the project:
-
-| **Date**    | **Activity**                        |
-|:------------|:------------------------------------|
-| Oct/19/2020 | Finish plotting the figures         |
-| Oct/22/2020 | First submission to New Phytologist |
-| Dec/10/2020 | Major revision advised              |
-| Dec/17/2020 | Switch to new model                 |
-| Jan/21/2021 | Revision 1 to New Phytologist       |
-| Feb/01/2021 | Accepted                            |
-| Feb/04/2021 | Code archived on Github             |
 |||
