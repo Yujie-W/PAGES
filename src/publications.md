@@ -1,6 +1,35 @@
 # PUBLICATIONS
 
+Click to display / hide the Bibtex information.
+
+
+
+
 ## Featured
+
+<details>
+<summary>
+**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
+Optimization theory explains nighttime stomatal responses.
+New Phytologist. 230(4): 1550-1561.
+[DOI](https://doi.org/10.1111/nph.17267)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2021optimization,
+    author = {Wang, Yujie and Anderegg, William RL and Venturas, Martin D and Trugman, Anna T and Yu, Kailiang and Frankenberg, Christian},
+    year = {2021},
+    title = {Optimization theory explains nighttime stomatal responses},
+    journal = {New Phytologist},
+    volume = {230},
+    number = {4},
+    pages = {1550--1561}
+}
+```
+</details>
 
 <details>
 <summary>
@@ -10,6 +39,7 @@ New Phytologist. 227(2): 311–325.
 [DOI](https://doi.org/10.1111/nph.16572)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -20,8 +50,7 @@ New Phytologist. 227(2): 311–325.
     journal = {New Phytologist},
     volume = {227},
     number = {2},
-    pages = {311--325},
-    publisher = {Wiley Online Library}
+    pages = {311--325}
 }
 ```
 </details>
@@ -29,24 +58,7 @@ New Phytologist. 227(2): 311–325.
 
 
 
-## In preparation or review
-
-- **Y. Wang**, C. Frankenberg, and M. T. Tyree.
-    Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
-- **Y. Wang**, L. He, and C. Frankenberg.
-    Testing stomatal optimization model at stand level using flux tower and satellite observations.
-- **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
-    GriddingMachine.jl: A tool to process and distribute global datasets.
-- **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
-    A canopy profit maximization model identifies major drivers for optimal leaf investment.
-- **Y. Wang**.
-    Optimization theory explains mesophyll conductance behaviors.
-- R. K. Braghiere, **Y. Wang**, R. Doughty, D. Souza, T. Magney, J. Widlowski, M. Longo, A. Bloom, J. Worden, P. Gentine, and C. Frankenberg.
-    Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model.
-
-
-
-
+## Pending
 
 ## In press
 
@@ -56,29 +68,75 @@ A. Potkay, A. T. Trugman, **Y. Wang**, M. D. Venturas, W. R. L. Anderegg, C. Mat
 Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning.
 New Phytologist.
 [DOI](https://doi.org/10.1111/nph.17242)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/potkay2021coupled.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/potkay2021coupled-si.pdf)
 </summary>
 
 ```
-To update
+@article{potkay2021coupled,
+	author = {Potkay, Aaron and Trugman, Anna T and Wang, Yujie and Venturas, Martin D and Anderegg, William RL and Mattos, Caio RC and Fan, Ying},
+	year = {2021},
+	title = {Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning},
+	journal = {New Phytologist}
+}
 ```
 </details>
 
-<details>
-<summary>
-**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
-Optimization theory explains nighttime stomatal responses.
-New Phytologist.
-</summary>
 
-```
-To update
-```
-</details>
+
+
+### Under review
+- R. K. Braghiere, **Y. Wang**, R. Doughty, D. Souza, T. Magney, J. Widlowski, M. Longo, A. Bloom, J. Worden, P. Gentine, and C. Frankenberg.
+    Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model.
+- Y. Wang, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
+    Testing a stomatal optimization model at stand level in deciduous angiosperm and evergreen gymnosperm forests.
+
+
+
+
+### In preparation
+- **Y. Wang**, C. Frankenberg, and M. T. Tyree.
+    Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
+- **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
+    GriddingMachine.jl: A tool to process and distribute global datasets.
+- **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
+    A canopy profit maximization model identifies major drivers for optimal leaf investment.
+- **Y. Wang**.
+    Optimization theory explains mesophyll conductance behaviors.
 
 
 
 
 ## Published
+
+### 2021
+
+<details>
+<summary>
+**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
+Optimization theory explains nighttime stomatal responses.
+New Phytologist. 230(4): 1550-1561.
+[DOI](https://doi.org/10.1111/nph.17267)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2021optimization-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2021optimization,
+    author = {Wang, Yujie and Anderegg, William RL and Venturas, Martin D and Trugman, Anna T and Yu, Kailiang and Frankenberg, Christian},
+    year = {2021},
+    title = {Optimization theory explains nighttime stomatal responses},
+    journal = {New Phytologist},
+    volume = {230},
+    number = {4},
+    pages = {1550--1561}
+}
+```
+</details>
+
+
+
 
 ### 2020
 
@@ -90,6 +148,7 @@ New Phytologist. 227(2): 311–325.
 [DOI](https://doi.org/10.1111/nph.16572)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2020theoretical-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -100,8 +159,7 @@ New Phytologist. 227(2): 311–325.
     journal = {New Phytologist},
     volume = {227},
     number = {2},
-    pages = {311--325},
-    publisher = {Wiley Online Library}
+    pages = {311--325}
 }
 ```
 </details>
@@ -152,8 +210,7 @@ Global Change Biology. 25: 4008–4021.
     journal = {Global Change Biology},
     volume = {25},
     number = {12},
-    pages = {4008--4021},
-    publisher = {Wiley Online Library}
+    pages = {4008--4021}
 }
 ```
 </details>
@@ -166,6 +223,7 @@ Tree Physiology. 39(8): 1416–1427.
 [DOI](https://doi.org/10.1093/treephys/tpz038)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2019stomatal.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2019stomatal-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -176,8 +234,7 @@ Tree Physiology. 39(8): 1416–1427.
     journal = {Tree Physiology},
     volume = {39},
     number = {8},
-    pages = {1416--1427},
-    publisher = {Oxford University Press}
+    pages = {1416--1427}
 }
 ```
 </details>
@@ -200,8 +257,7 @@ New Phytologist. 222(4): 1778–1788.
     journal = {New Phytologist},
     volume = {222},
     number = {4},
-    pages = {1778--1788},
-    publisher = {Wiley Online Library}
+    pages = {1778--1788}
 }
 ```
 </details>
@@ -224,8 +280,7 @@ Water Resource Research. 55(3): 1833–1848.
     journal = {Water Resources Research},
     volume = {55},
     number = {3},
-    pages = {1833--1848},
-    publisher = {Wiley Online Library}
+    pages = {1833--1848}
 }
 ```
 </details>
@@ -247,8 +302,7 @@ Tree Physiology. 39(1): 156–165.
     journal = {Tree Physiology},
     volume = {39},
     number = {1},
-    pages = {156--165},
-    publisher = {Oxford University Press}
+    pages = {156--165}
 }
 ```
 </details>
@@ -266,6 +320,7 @@ New Phytologist. 220(3): 836–850.
 [DOI](https://doi.org/10.1111/nph.15333)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/venturas2018stomatal.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/venturas2018stomatal-si.zip)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -276,8 +331,7 @@ New Phytologist. 220(3): 836–850.
     journal = {New Phytologist},
     volume = {220},
     number = {3},
-    pages = {836--850},
-    publisher = {Wiley Online Library}
+    pages = {836--850}
 }
 ```
 </details>
@@ -295,6 +349,7 @@ Plant Cell & Environment. 40(6): 816–830.
 [DOI](https://dx.doi.org/10.1111/pce.12852)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2017predicting.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2017predicting-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -305,8 +360,7 @@ Plant Cell & Environment. 40(6): 816–830.
     journal = {Plant, Cell \& Environment},
     volume = {40},
     number = {6},
-    pages = {816--830},
-    publisher = {Wiley Online Library}
+    pages = {816--830}
 }
 ```
 </details>
@@ -323,6 +377,7 @@ New Phytologist. 212(3): 577–589.
 [DOI](https://dx.doi.org/10.1111/nph.14059)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2016pragmatic.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/sperry2016pragmatic-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -333,8 +388,7 @@ New Phytologist. 212(3): 577–589.
     journal = {New Phytologist},
     volume = {212},
     number = {3},
-    pages = {577--589},
-    publisher = {Wiley Online Library}
+    pages = {577--589}
 }
 ```
 </details>
@@ -352,6 +406,7 @@ Plant Physiology. 169(4): 2597–2607.
 [DOI](https://doi.org/10.1104/pp.15.00875)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015stem.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015stem-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -362,8 +417,7 @@ Plant Physiology. 169(4): 2597–2607.
     journal = {Plant Physiology},
     volume = {169},
     number = {4},
-    pages = {2597--2607},
-    publisher = {Am Soc Plant Biol}
+    pages = {2597--2607}
 }
 ```
 </details>
@@ -376,6 +430,7 @@ Plant Physiology. 168(2): 521–531.
 [DOI](https://doi.org/10.1104/pp.114.256602)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015studies.pdf)
 [SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2015studies-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -386,8 +441,7 @@ Plant Physiology. 168(2): 521–531.
     journal = {Plant Physiology},
     volume = {168},
     number = {2},
-    pages = {521--531},
-    publisher = {Am Soc Plant Biol}
+    pages = {521--531}
 }
 ```
 </details>
@@ -404,6 +458,7 @@ Improved precision of hydraulic conductance measurements using a Cochard rotor i
 Journal of Plant Hydraulics. 1: e-0007.
 [DOI](http://dx.doi.org/10.20870/jph.2014.e007)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/wang2014improved.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
 </summary>
 
 ```
@@ -440,8 +495,7 @@ Plant Science Journal. 30(5): 484-493.
     journal = {Plant Science Journal},
     volume = {30},
     number = {5},
-    pages = {484--493},
-    publisher = {Science Press}
+    pages = {484--493}
 }
 ```
 </details>

@@ -4,7 +4,7 @@ using Documenter
 
 
 # Pages to generate
-pages = Any[
+pages = Pair{Any,Any}[
     "Home"          => "index.md"        ,
     "Projects"      => "projects.md"     ,
     "Methods"       => "methods.md"      ,
