@@ -9,7 +9,7 @@ Click to display / hide the Bibtex information.
 
 <details>
 <summary>
-**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
+**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg. 2021.
 Optimization theory explains nighttime stomatal responses.
 New Phytologist. 230(4): 1550-1561.
 [DOI](https://doi.org/10.1111/nph.17267)
@@ -60,34 +60,12 @@ New Phytologist. 227(2): 311–325.
 
 ## Pending
 
-## In press
-
-<details>
-<summary>
-A. Potkay, A. T. Trugman, **Y. Wang**, M. D. Venturas, W. R. L. Anderegg, C. Mattos, and Y. Fan.
-Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning.
-New Phytologist.
-[DOI](https://doi.org/10.1111/nph.17242)
-[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/potkay2021coupled.pdf)
-[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/potkay2021coupled-si.pdf)
-</summary>
-
-```
-@article{potkay2021coupled,
-	author = {Potkay, Aaron and Trugman, Anna T and Wang, Yujie and Venturas, Martin D and Anderegg, William RL and Mattos, Caio RC and Fan, Ying},
-	year = {2021},
-	title = {Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning},
-	journal = {New Phytologist}
-}
-```
-</details>
+### In press
 
 
 
 
 ### Under review
-- R. K. Braghiere, **Y. Wang**, R. Doughty, D. Souza, T. Magney, J. Widlowski, M. Longo, A. Bloom, J. Worden, P. Gentine, and C. Frankenberg.
-    Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model.
 - Y. Wang, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
     Testing a stomatal optimization model at stand level in deciduous angiosperm and evergreen gymnosperm forests.
 
@@ -113,7 +91,53 @@ New Phytologist.
 
 <details>
 <summary>
-**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg.
+R. K. Braghiere, **Y. Wang**, R. Doughty, D. Souza, T. Magney, J. Widlowski, M. Longo, A. Bloom, J. Worden, P. Gentine, and C. Frankenberg. 2021.
+Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model.
+Remote Sensing of Environment. 261: 112497.
+[DOI](https://doi.org/10.1016/j.rse.2021.112497)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/braghiere2021accounting.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/braghiere2021accounting-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{braghiere2021accounting,
+	author = {Braghiere, Renato K and Wang, Yujie and Doughty, Russell and Sousa, Daniel and Magney, Troy and Widlowski, Jean-Luc and Longo, Marcos and Bloom, A Anthony and Worden, John and Gentine, Pierre and others},
+	year = {2021},
+	title = {Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model},
+	journal = {Remote Sensing of Environment},
+	volume = {261},
+	pages = {112497}
+}
+```
+</details>
+
+<details>
+<summary>
+A. Potkay, A. T. Trugman, **Y. Wang**, M. D. Venturas, W. R. L. Anderegg, C. Mattos, and Y. Fan. 2021.
+Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning.
+New Phytologist. 230(6): 2226-2245.
+[DOI](https://doi.org/10.1111/nph.17242)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/potkay2021coupled.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/potkay2021coupled-si.pdf)
+</summary>
+
+```
+@article{potkay2021coupled,
+	author = {Potkay, Aaron and Trugman, Anna T and Wang, Yujie and Venturas, Martin D and Anderegg, William RL and Mattos, Caio RC and Fan, Ying},
+	year = {2021},
+	title = {Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning},
+	journal = {New Phytologist},
+    volume = {230},
+    number = {6},
+    pages = {2226--2245}
+}
+```
+</details>
+
+<details>
+<summary>
+**Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg. 2021.
 Optimization theory explains nighttime stomatal responses.
 New Phytologist. 230(4): 1550-1561.
 [DOI](https://doi.org/10.1111/nph.17267)
