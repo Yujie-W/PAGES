@@ -66,8 +66,12 @@ New Phytologist. 227(2): 311–325.
 
 
 ### Under review
-- Y. Wang, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
+- **Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
     Testing a stomatal optimization model at stand level in deciduous angiosperm and evergreen gymnosperm forests.
+- P. Kohler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg.
+    Mineral luminescence observed from space.
+- R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
+    Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
 
 
 
@@ -102,12 +106,12 @@ Remote Sensing of Environment. 261: 112497.
 
 ```
 @article{braghiere2021accounting,
-	author = {Braghiere, Renato K and Wang, Yujie and Doughty, Russell and Sousa, Daniel and Magney, Troy and Widlowski, Jean-Luc and Longo, Marcos and Bloom, A Anthony and Worden, John and Gentine, Pierre and others},
-	year = {2021},
-	title = {Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model},
-	journal = {Remote Sensing of Environment},
-	volume = {261},
-	pages = {112497}
+    author = {Braghiere, Renato K and Wang, Yujie and Doughty, Russell and Sousa, Daniel and Magney, Troy and Widlowski, Jean-Luc and Longo, Marcos and Bloom, A Anthony and Worden, John and Gentine, Pierre and others},
+    year = {2021},
+    title = {Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model},
+    journal = {Remote Sensing of Environment},
+    volume = {261},
+    pages = {112497}
 }
 ```
 </details>
@@ -124,10 +128,10 @@ New Phytologist. 230(6): 2226-2245.
 
 ```
 @article{potkay2021coupled,
-	author = {Potkay, Aaron and Trugman, Anna T and Wang, Yujie and Venturas, Martin D and Anderegg, William RL and Mattos, Caio RC and Fan, Ying},
-	year = {2021},
-	title = {Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning},
-	journal = {New Phytologist},
+    author = {Potkay, Aaron and Trugman, Anna T and Wang, Yujie and Venturas, Martin D and Anderegg, William RL and Mattos, Caio RC and Fan, Ying},
+    year = {2021},
+    title = {Coupled whole-tree optimality and xylem-hydraulics explain dynamic biomass partitioning},
+    journal = {New Phytologist},
     volume = {230},
     number = {6},
     pages = {2226--2245}
