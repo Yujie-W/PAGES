@@ -67,16 +67,22 @@ New Phytologist. 227(2): 311–325.
 
 ### Under review
 - **Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
-    Testing a stomatal optimization model at stand level in deciduous angiosperm and evergreen gymnosperm forests.
+    Testing stomatal models at stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1).
+    [DOI](https://doi.org/10.5194/gmd-2021-154)
 - P. Kohler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg.
     Mineral luminescence observed from space.
 - R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
     Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
+- **Y. Wang**, C. Frankenberg.
+    On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
+    [DOI](https://doi.org/10.5194/bg-2021-214)
 
 
 
 
 ### In preparation
+- **Y. Wang**, C. Frankenberg.
+    Xylem hydraulic efficiency and safety tradeoff is impacted by its coupling to stomatal control.
 - **Y. Wang**, C. Frankenberg, and M. T. Tyree.
     Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
 - **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
