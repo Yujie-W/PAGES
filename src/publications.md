@@ -84,21 +84,6 @@ Global Change Biology.
 ```
 </details>
 
-<details>
-<summary>
-P. Kohler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg.. In press.
-Mineral luminescence observed from space.
-Geophysical Research Letters.
-[DOI](https://doi.org/10.1029/2021GL095227)
-[PDF](TBD)
-[SI](TBD)
-</summary>
-
-```
-
-```
-</details>
-
 
 
 
@@ -109,6 +94,7 @@ Geophysical Research Letters.
     [DOI](https://doi.org/10.5194/gmd-2021-154)
 - R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
     Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
+    [DOI](https://doi.org/10.5194/essd-2021-237)
 - **Y. Wang**, C. Frankenberg.
     On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
     [DOI](https://doi.org/10.5194/bg-2021-214)
@@ -118,7 +104,7 @@ Geophysical Research Letters.
 
 ### In preparation
 - **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
-    Xylem hydraulic efficiency and safety tradeoff is impacted by its coupling to stomatal control.
+    Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
 - **Y. Wang**, C. Frankenberg, and M. T. Tyree.
     Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
 - **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
@@ -134,6 +120,29 @@ Geophysical Research Letters.
 ## Published
 
 ### 2021
+
+<details>
+<summary>
+P. Kohler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg. 2021.
+Mineral luminescence observed from space.
+Geophysical Research Letters.
+[DOI](https://doi.org/10.1029/2021GL095227)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/kohler2021mineral.pdf)
+</summary>
+
+```
+@article{kohler2021mineral,
+    author = {K{\"o}hler, Philipp and Fischer, Woodward W and Rossman, George R and Grotzinger, John P and Doughty, Russell and Wang, Yujie and Yin, Yi and Frankenberg, Christian},
+    year = {2021},
+    title = {Mineral luminescence observed from space},
+    journal = {Geophysical Research Letters},
+    volume = {48},
+    number = {19},
+    pages = {e2021GL095227},
+    publisher = {Wiley Online Library}
+}
+```
+</details>
 
 <details>
 <summary>
