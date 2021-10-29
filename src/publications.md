@@ -84,35 +84,44 @@ Global Change Biology.
 ```
 </details>
 
+<details>
+<summary>
+**Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. In press.
+Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1)..
+Geoscientific Model Development.
+[DOI](https://doi.org/10.5194/gmd-2021-154)
+[PDF](TBD)
+[SI](TBD)
+</summary>
+
+```
+```
+</details>
+
 
 
 
 ### Under review
 
-- **Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
-    Testing stomatal models at stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1).
-    [DOI](https://doi.org/10.5194/gmd-2021-154)
 - R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
     Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
     [DOI](https://doi.org/10.5194/essd-2021-237)
 - **Y. Wang**, C. Frankenberg.
     On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
     [DOI](https://doi.org/10.5194/bg-2021-214)
+- **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
+    Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
 
 
 
 
 ### In preparation
-- **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
-    Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
-- **Y. Wang**, C. Frankenberg, and M. T. Tyree.
-    Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
-- **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
-    GriddingMachine.jl: A tool to process and distribute global datasets.
-- **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
-    A canopy profit maximization model identifies major drivers for optimal leaf investment.
-- **Y. Wang**.
-    Optimization theory explains mesophyll conductance behaviors.
+
+- **Y. Wang**, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
+    GriddingMachine: A database and tool for earth system modeling at the global and regional scales.
+- **Y. Wang**, R. K. Braghiere, A. A. Bloom,  Philipp Köhler, Alexander J. Norton, Y. Yin, and C. Frankenberg.
+    Modeling global carbon and water fluxes, SIF, and NIRv simultaneously using the CliMA Land.
+
 
 
 
