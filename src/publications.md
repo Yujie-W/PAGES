@@ -64,23 +64,13 @@ New Phytologist. 227(2): 311–325.
 
 <details>
 <summary>
-A. G. Konings, S. S. Saatchi, C. Frankenberg, M. Keller, V. Leshyk, W. R. L. Anderegg, V. Humphrey, A. M. Matheny, A. Trugman, L. Sack, E. Agee, M. L. Barnes, O. Binks, K. Cawse-Nicholson,
-    B. O. Christoffersen, D. Entekhabi, P. Gentine, N. Holtzman, G. G. Katul, Y. Liu, M. Longo, J. Martinez-Vilalta, N. McDowell, P. Meir, M. Mencuccini, A. Mrad, K. A. Novick, R. S. Oliveira,
-    P. Siqueira, S. C. Steele-Dunne, D. R. Thompson, **Y. Wang**, R. Wehr, J. D. Wood, X. Xu, P. A. Zuidema. In press.
-Detecting forest response to droughts with global observations of vegetation water content.
-Global Change Biology.
-[DOI](https://doi.org/10.1111/gcb.15872)
-[PDF](TBD)
-[SI](TBD)
+**Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. In press.
+Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1)..
+Geoscientific Model Development.
+[DOI](https://doi.org/10.5194/gmd-2021-154)
 </summary>
 
 ```
-@article{konings2021detecting,
-    author = {Konings, Alexandra G and Saatchi, Sassan S and Frankenberg, Christian and Keller, Michael and Leshyk, Victor and Anderegg, William RL and Humphrey, Vincent and Matheny, Ashley M and Trugman, Anna and Sack, Lawren and others},
-    year = {2021},
-    title = {Detecting Forest Response to Droughts with Global Observations of Vegetation Water Content},
-    journal = {Global change biology}
-}
 ```
 </details>
 
@@ -89,30 +79,25 @@ Global Change Biology.
 
 ### Under review
 
-- **Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg.
-    Testing stomatal models at stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1).
-    [DOI](https://doi.org/10.5194/gmd-2021-154)
 - R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
     Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
     [DOI](https://doi.org/10.5194/essd-2021-237)
 - **Y. Wang**, C. Frankenberg.
     On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
     [DOI](https://doi.org/10.5194/bg-2021-214)
+- **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
+    Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
 
 
 
 
 ### In preparation
-- **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
-    Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
-- **Y. Wang**, C. Frankenberg, and M. T. Tyree.
-    Modeling plant water transport and storage: PlantHydraulics.jl (v0.2).
-- **Y. Wang**, A. Bloom, R. K. Braghiere, M. Longo, and R. Doughty.
-    GriddingMachine.jl: A tool to process and distribute global datasets.
-- **Y. Wang**, M. D. Venturas, A. T. Trugman, W. R. L. Anderegg, and J. S. Sperry.
-    A canopy profit maximization model identifies major drivers for optimal leaf investment.
-- **Y. Wang**.
-    Optimization theory explains mesophyll conductance behaviors.
+
+- **Y. Wang**, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
+    GriddingMachine: A database and tool for earth system modeling at the global and regional scales.
+- **Y. Wang**, R. K. Braghiere, A. A. Bloom,  P. Köhler, A. J. Norton, Y. Yin, and C. Frankenberg.
+    Modeling global carbon and water fluxes, SIF, and NIRv simultaneously using the CliMA Land.
+
 
 
 
@@ -123,9 +108,34 @@ Global Change Biology.
 
 <details>
 <summary>
-P. Kohler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg. 2021.
+A. G. Konings, S. S. Saatchi, C. Frankenberg, M. Keller, V. Leshyk, W. R. L. Anderegg, V. Humphrey, A. M. Matheny, A. Trugman, L. Sack, E. Agee, M. L. Barnes, O. Binks, K. Cawse-Nicholson,
+    B. O. Christoffersen, D. Entekhabi, P. Gentine, N. Holtzman, G. G. Katul, Y. Liu, M. Longo, J. Martinez-Vilalta, N. McDowell, P. Meir, M. Mencuccini, A. Mrad, K. A. Novick, R. S. Oliveira,
+    P. Siqueira, S. C. Steele-Dunne, D. R. Thompson, **Y. Wang**, R. Wehr, J. D. Wood, X. Xu, P. A. Zuidema. 2021.
+Detecting forest response to droughts with global observations of vegetation water content.
+Global Change Biology. 27(23): 6005-6024.
+[DOI](https://doi.org/10.1111/gcb.15872)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/konings2021detecting.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/konings2021detecting-si.pdf)
+</summary>
+
+```
+@article{konings2021detecting,
+    author = {Konings, Alexandra G and Saatchi, Sassan S and Frankenberg, Christian and Keller, Michael and Leshyk, Victor and Anderegg, William RL and Humphrey, Vincent and Matheny, Ashley M and Trugman, Anna and Sack, Lawren and others},
+    year = {2021},
+    title = {Detecting forest response to droughts with global observations of vegetation water content},
+    journal = {Global change biology},
+    volume = {27},
+    number = {23},
+    pages = {6005--6024}
+}
+```
+</details>
+
+<details>
+<summary>
+P. Köhler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg. 2021.
 Mineral luminescence observed from space.
-Geophysical Research Letters.
+Geophysical Research Letters. 48(19): e2021GL095227.
 [DOI](https://doi.org/10.1029/2021GL095227)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/kohler2021mineral.pdf)
 </summary>
