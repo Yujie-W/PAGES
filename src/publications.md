@@ -64,34 +64,10 @@ New Phytologist. 227(2): 311–325.
 
 <details>
 <summary>
-A. G. Konings, S. S. Saatchi, C. Frankenberg, M. Keller, V. Leshyk, W. R. L. Anderegg, V. Humphrey, A. M. Matheny, A. Trugman, L. Sack, E. Agee, M. L. Barnes, O. Binks, K. Cawse-Nicholson,
-    B. O. Christoffersen, D. Entekhabi, P. Gentine, N. Holtzman, G. G. Katul, Y. Liu, M. Longo, J. Martinez-Vilalta, N. McDowell, P. Meir, M. Mencuccini, A. Mrad, K. A. Novick, R. S. Oliveira,
-    P. Siqueira, S. C. Steele-Dunne, D. R. Thompson, **Y. Wang**, R. Wehr, J. D. Wood, X. Xu, P. A. Zuidema. In press.
-Detecting forest response to droughts with global observations of vegetation water content.
-Global Change Biology.
-[DOI](https://doi.org/10.1111/gcb.15872)
-[PDF](TBD)
-[SI](TBD)
-</summary>
-
-```
-@article{konings2021detecting,
-    author = {Konings, Alexandra G and Saatchi, Sassan S and Frankenberg, Christian and Keller, Michael and Leshyk, Victor and Anderegg, William RL and Humphrey, Vincent and Matheny, Ashley M and Trugman, Anna and Sack, Lawren and others},
-    year = {2021},
-    title = {Detecting Forest Response to Droughts with Global Observations of Vegetation Water Content},
-    journal = {Global change biology}
-}
-```
-</details>
-
-<details>
-<summary>
 **Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. In press.
 Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1)..
 Geoscientific Model Development.
 [DOI](https://doi.org/10.5194/gmd-2021-154)
-[PDF](TBD)
-[SI](TBD)
 </summary>
 
 ```
@@ -119,7 +95,7 @@ Geoscientific Model Development.
 
 - **Y. Wang**, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
     GriddingMachine: A database and tool for earth system modeling at the global and regional scales.
-- **Y. Wang**, R. K. Braghiere, A. A. Bloom,  Philipp Köhler, Alexander J. Norton, Y. Yin, and C. Frankenberg.
+- **Y. Wang**, R. K. Braghiere, A. A. Bloom,  P. Köhler, A. J. Norton, Y. Yin, and C. Frankenberg.
     Modeling global carbon and water fluxes, SIF, and NIRv simultaneously using the CliMA Land.
 
 
@@ -132,9 +108,34 @@ Geoscientific Model Development.
 
 <details>
 <summary>
-P. Kohler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg. 2021.
+A. G. Konings, S. S. Saatchi, C. Frankenberg, M. Keller, V. Leshyk, W. R. L. Anderegg, V. Humphrey, A. M. Matheny, A. Trugman, L. Sack, E. Agee, M. L. Barnes, O. Binks, K. Cawse-Nicholson,
+    B. O. Christoffersen, D. Entekhabi, P. Gentine, N. Holtzman, G. G. Katul, Y. Liu, M. Longo, J. Martinez-Vilalta, N. McDowell, P. Meir, M. Mencuccini, A. Mrad, K. A. Novick, R. S. Oliveira,
+    P. Siqueira, S. C. Steele-Dunne, D. R. Thompson, **Y. Wang**, R. Wehr, J. D. Wood, X. Xu, P. A. Zuidema. 2021.
+Detecting forest response to droughts with global observations of vegetation water content.
+Global Change Biology. 27(23): 6005-6024.
+[DOI](https://doi.org/10.1111/gcb.15872)
+[PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/konings2021detecting.pdf)
+[SI](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/konings2021detecting-si.pdf)
+</summary>
+
+```
+@article{konings2021detecting,
+    author = {Konings, Alexandra G and Saatchi, Sassan S and Frankenberg, Christian and Keller, Michael and Leshyk, Victor and Anderegg, William RL and Humphrey, Vincent and Matheny, Ashley M and Trugman, Anna and Sack, Lawren and others},
+    year = {2021},
+    title = {Detecting forest response to droughts with global observations of vegetation water content},
+    journal = {Global change biology},
+    volume = {27},
+    number = {23},
+    pages = {6005--6024}
+}
+```
+</details>
+
+<details>
+<summary>
+P. Köhler, W. W. Fischer, G. R. Rossman, J. P. Grotzinger, R. Doughty, **Y. Wang**, Y. Yin, C. Frankenberg. 2021.
 Mineral luminescence observed from space.
-Geophysical Research Letters.
+Geophysical Research Letters. 48(19): e2021GL095227.
 [DOI](https://doi.org/10.1029/2021GL095227)
 [PDF](ftp://fluo.gps.caltech.edu/XYZT_YW/publications/kohler2021mineral.pdf)
 </summary>
