@@ -9,6 +9,30 @@ Click to display / hide the Bibtex information.
 
 <details>
 <summary>
+**Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. 2021.
+Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1).
+Geoscientific Model Development. 14(11): 6741-6763.
+[DOI](https://doi.org/10.5194/gmd-14-6741-2021)
+[PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2021testing.pdf)
+[SI](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2021testing-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2021testing,
+    author = {Wang, Y. and K{\"o}hler, P. and He, L. and Doughty, R. and Braghiere, R. K. and Wood, J. D. and Frankenberg, C.},
+    year = {2021},
+    title = {Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1)},
+    journal = {Geoscientific Model Development},
+    volume = {14},
+    number = {11},
+    pages = {6741--6763}
+}
+```
+</details>
+
+<details>
+<summary>
 **Y. Wang**, W. R. L. Anderegg, M. D. Venturas, A. T. Trugman, K. Yu, and C. Frankenberg. 2021.
 Optimization theory explains nighttime stomatal responses.
 New Phytologist. 230(4): 1550-1561.
@@ -62,18 +86,6 @@ New Phytologist. 227(2): 311–325.
 
 ### In press
 
-<details>
-<summary>
-**Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. In press.
-Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1)..
-Geoscientific Model Development.
-[DOI](https://doi.org/10.5194/gmd-2021-154)
-</summary>
-
-```
-```
-</details>
-
 
 
 
@@ -105,6 +117,30 @@ Geoscientific Model Development.
 ## Published
 
 ### 2021
+
+<details>
+<summary>
+**Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. 2021.
+Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1).
+Geoscientific Model Development. 14(11): 6741-6763.
+[DOI](https://doi.org/10.5194/gmd-14-6741-2021)
+[PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2021testing.pdf)
+[SI](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2021testing-si.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2021testing,
+    author = {Wang, Y. and K{\"o}hler, P. and He, L. and Doughty, R. and Braghiere, R. K. and Wood, J. D. and Frankenberg, C.},
+    year = {2021},
+    title = {Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1)},
+    journal = {Geoscientific Model Development},
+    volume = {14},
+    number = {11},
+    pages = {6741--6763}
+}
+```
+</details>
 
 <details>
 <summary>
