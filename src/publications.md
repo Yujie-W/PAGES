@@ -145,7 +145,7 @@ Geoscientific Model Development. 14(11): 6741-6763.
 <details>
 <summary>
 A. G. Konings, S. S. Saatchi, C. Frankenberg, M. Keller, V. Leshyk, W. R. L. Anderegg, V. Humphrey, A. M. Matheny, A. Trugman, L. Sack, E. Agee, M. L. Barnes, O. Binks, K. Cawse-Nicholson,
-    B. O. Christoffersen, D. Entekhabi, P. Gentine, N. Holtzman, G. G. Katul, Y. Liu, M. Longo, J. Martinez-Vilalta, N. McDowell, P. Meir, M. Mencuccini, A. Mrad, K. A. Novick, R. S. Oliveira,
+    B. O. Christoffersen, D. Entekhabi, P. Gentine, N. M. Holtzman, G. G. Katul, Y. Liu, M. Longo, J. Martinez-Vilalta, N. McDowell, P. Meir, M. Mencuccini, A. Mrad, K. A. Novick, R. S. Oliveira,
     P. Siqueira, S. C. Steele-Dunne, D. R. Thompson, **Y. Wang**, R. Wehr, J. D. Wood, X. Xu, P. A. Zuidema. 2021.
 Detecting forest response to droughts with global observations of vegetation water content.
 Global Change Biology. 27(23): 6005-6024.
@@ -156,7 +156,7 @@ Global Change Biology. 27(23): 6005-6024.
 
 ```
 @article{konings2021detecting,
-    author = {Konings, Alexandra G and Saatchi, Sassan S and Frankenberg, Christian and Keller, Michael and Leshyk, Victor and Anderegg, William RL and Humphrey, Vincent and Matheny, Ashley M and Trugman, Anna and Sack, Lawren and others},
+    author = {Konings, Alexandra G and Saatchi, Sassan S and Frankenberg, Christian and Keller, Michael and Leshyk, Victor and Anderegg, William RL and Humphrey, Vincent and Matheny, Ashley M and Trugman, Anna and Sack, Lawren and Agee, Elizabeth and Barnes, Mallory L. and Binks, Oliver and Cawse-Nicholson, Kerry and Christoffersen, Bradley O. and Entekhabi, Dara and Gentine, Pierre and Holtzman, Nataniel M. and Katul, Gabriel G. and Liu, Yanlan and Longo, Marcos and Martinez-Vilalta, Jordi and McDowell, Nate and Meir, Patrick and Mencuccini, Maurizio and Mrad, Assaad and Novick, Kimberly A. and Oliveira, Rafael S. and Siqueira, Paul and Steele-Dunne, Susan C. and Thompson, David R. and Wang, Yujie and Wehr, Richard and Wood, Jeffrey D. and Xu, Xiangtao and Zuidema, Pieter A.},
     year = {2021},
     title = {Detecting forest response to droughts with global observations of vegetation water content},
     journal = {Global change biology},
@@ -203,7 +203,7 @@ Remote Sensing of Environment. 261: 112497.
 
 ```
 @article{braghiere2021accounting,
-    author = {Braghiere, Renato K and Wang, Yujie and Doughty, Russell and Sousa, Daniel and Magney, Troy and Widlowski, Jean-Luc and Longo, Marcos and Bloom, A Anthony and Worden, John and Gentine, Pierre and others},
+    author = {Braghiere, Renato K and Wang, Yujie and Doughty, Russell and Sousa, Daniel and Magney, Troy and Widlowski, Jean-Luc and Longo, Marcos and Bloom, A Anthony and Worden, John and Gentine, Pierre and Frankenberg, Christian},
     year = {2021},
     title = {Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model},
     journal = {Remote Sensing of Environment},
