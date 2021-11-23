@@ -86,6 +86,10 @@ New Phytologist. 227(2): 311–325.
 
 ### In press
 
+- **Y. Wang**, C. Frankenberg.
+    On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
+    [DOI](https://doi.org/10.5194/bg-2021-214)
+
 
 
 
@@ -94,9 +98,6 @@ New Phytologist. 227(2): 311–325.
 - R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
     Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
     [DOI](https://doi.org/10.5194/essd-2021-237)
-- **Y. Wang**, C. Frankenberg.
-    On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
-    [DOI](https://doi.org/10.5194/bg-2021-214)
 - **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
     Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
 
