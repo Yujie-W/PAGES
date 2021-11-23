@@ -9,6 +9,7 @@ pages = Pair{Any,Any}[
     "Projects"      => "projects.md"     ,
     "Methods"       => "methods.md"      ,
     "Publications"  => "publications.md" ,
+    "Datasets"      => "datasets.md"     ,
     "Posters"       => "posters.md"      ,
     "Seminars"      => "seminars.md"     ,
     "Dissertations" => "dissertations.md",
@@ -18,13 +19,11 @@ pages = Pair{Any,Any}[
 
 
 # format the docs
-mathengine = MathJax(Dict(:TeX => Dict(:equationNumbers => Dict(:autoNumber => "AMS"),
-                                       :Macros => Dict())))
-
-format = (Documenter).HTML(prettyurls = get(ENV, "CI", nothing)=="true",
-                           mathengine = mathengine,
+mathengine = MathJax(Dict(:TeX => Dict(:equationNumbers => Dict(:autoNumber => "AMS"), :Macros => Dict())))
+format = (Documenter).HTML(prettyurls    = get(ENV, "CI", nothing)=="true",
+                           mathengine    = mathengine,
                            collapselevel = 1,
-                           assets = ["assets/favicon.ico"])
+                           assets        = ["assets/favicon.ico"])
 
 
 
@@ -58,15 +57,17 @@ end
 
 
 # Replace the strings
-file_name = joinpath(@__DIR__, "build/publications.html");
-if isfile(file_name)
-    replace_html(file_name);
-else
-    file_name = joinpath(@__DIR__, "build/publications/index.html");
+for page_name in ["publications", "datasets"]
+    file_name = joinpath(@__DIR__, "build/$(page_name).html");
     if isfile(file_name)
         replace_html(file_name);
     else
-        @warn "No file found to work on, please check file names";
+        file_name = joinpath(@__DIR__, "build/$(page_name)/index.html");
+        if isfile(file_name)
+            replace_html(file_name);
+        else
+            @warn "No file found to work on, please check file names";
+        end
     end
 end
 
