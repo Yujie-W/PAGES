@@ -9,23 +9,23 @@ Click to display / hide the Bibtex information.
 
 <details>
 <summary>
-**Y. Wang**. 2021.
+**Y. Wang**, and R. K. Braghiere. 2021.
 Global scale carbon and water fluxes and canopy spectra simulation using the CliMA Land (v0.1) (Version 1.0) [Data set].
 CaltechDATA.
 [DOI](http://dx.doi.org/10.22002/D1.2191)
 </summary>
 
 ```
-@misc{dataset2021clima,
-    doi = {10.22002/D1.2191},
-    url = {https://data.caltech.edu/records/2191},
-    author = {Wang, Yujie and Braghiere, Renato K.},
-    keywords = {GPP, NIRv, SIF, Transpiration},
-    language = {en},
-    title = {Global scale carbon and water fluxes and canopy spectra simulation using the CliMA Land (v0.1)},
-    publisher = {CaltechDATA},
-    year = {2021},
-    copyright = {Creative Commons Attribution 4.0 International}
+@misc{dataset2021global,
+	author = {Wang, Yujie and Braghiere, Renato K.},
+	copyright = {Creative Commons Attribution 4.0 International},
+	doi = {10.22002/D1.2191},
+	keywords = {GPP; NIRv; SIF; Transpiration},
+	language = {en},
+	publisher = {CaltechDATA},
+	title = {Global scale carbon and water fluxes and canopy spectra simulation using the CliMA Land (v0.1)},
+	url = {https://data.caltech.edu/records/2191},
+	year = {2021}
 }
 ```
 </details>
@@ -40,15 +40,15 @@ CaltechDATA.
 
 ```
 @misc{dataset2021tradeoff,
-    doi = {10.22002/D1.2156},
-    url = {https://data.caltech.edu/records/2156},
-    author = {Wang, Yujie},
-    keywords = {hydraulic efficiency, hydraulic safety, soil water budget, stomatal optimization, tradeoff},
-    language = {en},
-    title = {Alternative figures for "Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control"},
-    publisher = {CaltechDATA},
-    year = {2021},
-    copyright = {Creative Commons Attribution 4.0 International}
+	author = {Wang, Yujie},
+	copyright = {Creative Commons Attribution 4.0 International},
+	doi = {10.22002/D1.2156},
+	keywords = {hydraulic efficiency; hydraulic safety; soil water budget; stomatal optimization; tradeoff},
+	language = {en},
+	publisher = {CaltechDATA},
+	title = {Alternative figures for "Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control"},
+	url = {https://data.caltech.edu/records/2156},
+	year = {2021}
 }
 ```
 </details>
@@ -63,15 +63,37 @@ CaltechDATA.
 
 ```
 @misc{dataset2021griddingmachine,
-    doi = {10.22002/D1.2129},
-    url = {https://data.caltech.edu/records/2129},
-    author = {Wang, Yujie},
-    keywords = {GriddingMachine, Land Surface Model},
-    language = {en},
-    title = {Artifacts of GriddingMachine.jl (v0.2) for land modeling},
-    publisher = {CaltechDATA},
-    year = {2021},
-    copyright = {Creative Commons Attribution 4.0 International}
+	author = {Wang, Yujie},
+	copyright = {Creative Commons Attribution 4.0 International},
+	doi = {10.22002/D1.2129},
+	keywords = {GriddingMachine; Land Surface Model},
+	language = {en},
+	publisher = {CaltechDATA},
+	title = {Artifacts of GriddingMachine.jl (v0.2) for land modeling},
+	url = {https://data.caltech.edu/records/2129},
+	year = {2021}
+}
+```
+</details>
+
+<details>
+<summary>
+**Y. Wang**. 2021.
+Test CliMA Land model with flux tower and TROPOMI SIF datasets (v1.0.0).
+Zenodo.
+[DOI](https://doi.org/10.5281/zenodo.4762775)
+</summary>
+
+```
+@misc{dataset2021clima,
+	author = {Wang, Yujie},
+	doi = {10.5281/zenodo.4762775},
+	month = {May},
+	publisher = {Zenodo},
+	title = {Test CliMA Land model with flux tower and TROPOMI SIF datasets},
+	url = {https://doi.org/10.5281/zenodo.4762775},
+	version = {v1.0.0},
+	year = 2021
 }
 ```
 </details>
