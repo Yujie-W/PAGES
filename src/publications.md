@@ -9,6 +9,29 @@ Click to display / hide the Bibtex information.
 
 <details>
 <summary>
+**Y. Wang**, C. Frankenberg. 2022.
+On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
+Biogeosciences. 19(1): 29-45.
+[DOI](https://doi.org/10.5194/bg-19-29-2022)
+[PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2022impact.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2022impact,
+	author = {Wang, Y. and Frankenberg, C.},
+	year = {2022},
+	title = {On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes},
+	journal = {Biogeosciences},
+	volume = {19},
+	number = {1},
+	pages = {29--45}
+}
+```
+</details>
+
+<details>
+<summary>
 **Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. 2021.
 Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1).
 Geoscientific Model Development. 14(11): 6741-6763.
@@ -86,10 +109,6 @@ New Phytologist. 227(2): 311–325.
 
 ### In press
 
-- **Y. Wang**, C. Frankenberg.
-    On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
-    [DOI](https://doi.org/10.5194/bg-2021-214)
-
 
 
 
@@ -117,6 +136,34 @@ New Phytologist. 227(2): 311–325.
 
 
 ## Published
+
+### 2022
+
+<details>
+<summary>
+**Y. Wang**, C. Frankenberg. 2022.
+On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
+Biogeosciences. 19(1): 29-45.
+[DOI](https://doi.org/10.5194/bg-19-29-2022)
+[PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2022impact.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2022impact,
+	author = {Wang, Y. and Frankenberg, C.},
+	year = {2022},
+	title = {On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes},
+	journal = {Biogeosciences},
+	volume = {19},
+	number = {1},
+	pages = {29--45}
+}
+```
+</details>
+
+
+
 
 ### 2021
 
