@@ -112,15 +112,16 @@ New Phytologist. 227(2): 311–325.
 
 
 
-### Under review
+### In review
 
 - R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
     Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
     [DOI](https://doi.org/10.5194/essd-2021-237)
 - **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
     Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
-- **Y. Wang**, R. K. Braghiere, M. Longo, A. J. Norton, P. Köhler, R. Doughty, Y. Yin, A. A. Bloom, and C. Frankenberg
+- **Y. Wang**, R. K. Braghiere, M. Longo, A. J. Norton, P. Köhler, R. Doughty, Y. Yin, A. A. Bloom, and C. Frankenberg.
     Modeling global carbon and water fluxes and hyperspectral canopy radiative transfer simultaneously using a next generation land surface model-CliMA Land.
+    [DOI](https://doi.org/10.1002/essoar.10509956.1)
 
 
 
