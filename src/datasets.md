@@ -9,15 +9,38 @@ Click to display / hide the Bibtex information.
 
 <details>
 <summary>
-**Y. Wang**, and R. K. Braghiere. 2021.
-Global scale carbon and water fluxes and canopy spectra simulation using the CliMA Land (v0.1) (Version 1.0) [Data set].
+**Y. Wang**, and C. Frankenberg. 2021.
+CliMA Land code archive.
+CaltechDATA.
+[DOI](http://dx.doi.org/10.22002/D1.2316)
+</summary>
+
+```
+@misc{climaland2021code,
+	author = {Wang, Yujie and Frankenberg, Christian},
+	copyright = {Creative Commons Attribution 4.0 International},
+	doi = {10.22002/D1.2316},
+	keywords = {CliMA Land; Land surface model},
+	language = {en},
+	publisher = {CaltechDATA},
+	title = {CliMA Land code archive},
+	url = {https://data.caltech.edu/records/2316},
+	year = {2021}
+}
+```
+</details>
+
+<details>
+<summary>
+**Y. Wang**, R. K. Braghiere, and C. Frankenberg. 2021.
+Global scale carbon and water fluxes and canopy spectra simulation using the CliMA Land (v0.1).
 CaltechDATA.
 [DOI](http://dx.doi.org/10.22002/D1.2191)
 </summary>
 
 ```
-@misc{dataset2021global,
-	author = {Wang, Yujie and Braghiere, Renato K.},
+@misc{climaland2021global,
+	author = {Wang, Yujie and Braghiere, Renato K. and Frankenberg, Christian},
 	copyright = {Creative Commons Attribution 4.0 International},
 	doi = {10.22002/D1.2191},
 	keywords = {GPP; NIRv; SIF; Transpiration},
@@ -33,13 +56,13 @@ CaltechDATA.
 <details>
 <summary>
 **Y. Wang**. 2021.
-Alternative figures for "Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control" (Version 1.0) [Data set].
+Alternative figures for "Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control".
 CaltechDATA.
 [DOI](http://dx.doi.org/10.22002/D1.2156)
 </summary>
 
 ```
-@misc{dataset2021tradeoff,
+@misc{climaland2021tradeoff,
 	author = {Wang, Yujie},
 	copyright = {Creative Commons Attribution 4.0 International},
 	doi = {10.22002/D1.2156},
@@ -56,13 +79,13 @@ CaltechDATA.
 <details>
 <summary>
 **Y. Wang**. 2021.
-Artifacts of GriddingMachine.jl (v0.2) for land modeling (Version 0.2) [Data set].
+Artifacts of GriddingMachine.jl (v0.2) for land modeling.
 CaltechDATA.
 [DOI](http://dx.doi.org/10.22002/D1.2129)
 </summary>
 
 ```
-@misc{dataset2021griddingmachine,
+@misc{griddingmachine2021artifacts,
 	author = {Wang, Yujie},
 	copyright = {Creative Commons Attribution 4.0 International},
 	doi = {10.22002/D1.2129},
@@ -79,13 +102,13 @@ CaltechDATA.
 <details>
 <summary>
 **Y. Wang**. 2021.
-Test CliMA Land model with flux tower and TROPOMI SIF datasets (v1.0.0).
+Test CliMA Land model with flux tower and TROPOMI SIF datasets.
 Zenodo.
 [DOI](https://doi.org/10.5281/zenodo.4762775)
 </summary>
 
 ```
-@misc{dataset2021clima,
+@misc{climaland2021sites,
 	author = {Wang, Yujie},
 	doi = {10.5281/zenodo.4762775},
 	month = {May},
