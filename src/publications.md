@@ -9,6 +9,29 @@ Click to display / hide the Bibtex information.
 
 <details>
 <summary>
+**Y. Wang**, C. Frankenberg. 2022.
+On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
+Biogeosciences. 19(1): 29-45.
+[DOI](https://doi.org/10.5194/bg-19-29-2022)
+[PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2022impact.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2022impact,
+	author = {Wang, Y. and Frankenberg, C.},
+	year = {2022},
+	title = {On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes},
+	journal = {Biogeosciences},
+	volume = {19},
+	number = {1},
+	pages = {29--45}
+}
+```
+</details>
+
+<details>
+<summary>
 **Y. Wang**, P. Köhler, L. He, R. K. Braghiere, R. Doughty, J. Wood, C. Frankenberg. 2021.
 Testing stomatal models at the stand level in deciduous angiosperm and evergreen gymnosperm forests using CliMA Land (v0.1).
 Geoscientific Model Development. 14(11): 6741-6763.
@@ -86,36 +109,62 @@ New Phytologist. 227(2): 311–325.
 
 ### In press
 
-- **Y. Wang**, C. Frankenberg.
-    On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
-    [DOI](https://doi.org/10.5194/bg-2021-214)
 
 
 
-
-### Under review
+### In review
 
 - R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
     Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
     [DOI](https://doi.org/10.5194/essd-2021-237)
 - **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
     Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
+- **Y. Wang**, R. K. Braghiere, M. Longo, A. J. Norton, P. Köhler, R. Doughty, Y. Yin, A. A. Bloom, and C. Frankenberg.
+    Modeling global carbon and water fluxes and hyperspectral canopy radiative transfer simultaneously using a next generation land surface model-CliMA Land.
+    [DOI](https://doi.org/10.1002/essoar.10509956.1)
 
 
 
 
 ### In preparation
 
-- **Y. Wang**, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
-    GriddingMachine: A database and tool for earth system modeling at the global and regional scales.
-- **Y. Wang**, R. K. Braghiere, A. A. Bloom,  P. Köhler, A. J. Norton, Y. Yin, and C. Frankenberg.
-    Modeling global carbon and water fluxes, SIF, and NIRv simultaneously using the CliMA Land.
-
+- **Y. Wang**, P. Köhler, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
+    GriddingMachine: A database and software for earth system modeling at the global and regional scales.
+- **Y. Wang**, P. Köhler, and C. Frankenberg.
+    Canopy structure explains the ratio between solar induced chlorophyll fluorescence (SIF) at different bands.
 
 
 
 
 ## Published
+
+### 2022
+
+<details>
+<summary>
+**Y. Wang**, C. Frankenberg. 2022.
+On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes.
+Biogeosciences. 19(1): 29-45.
+[DOI](https://doi.org/10.5194/bg-19-29-2022)
+[PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2022impact.pdf)
+[CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+</summary>
+
+```
+@article{wang2022impact,
+	author = {Wang, Y. and Frankenberg, C.},
+	year = {2022},
+	title = {On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes},
+	journal = {Biogeosciences},
+	volume = {19},
+	number = {1},
+	pages = {29--45}
+}
+```
+</details>
+
+
+
 
 ### 2021
 
@@ -160,7 +209,7 @@ Global Change Biology. 27(23): 6005-6024.
     author = {Konings, Alexandra G and Saatchi, Sassan S and Frankenberg, Christian and Keller, Michael and Leshyk, Victor and Anderegg, William RL and Humphrey, Vincent and Matheny, Ashley M and Trugman, Anna and Sack, Lawren and Agee, Elizabeth and Barnes, Mallory L. and Binks, Oliver and Cawse-Nicholson, Kerry and Christoffersen, Bradley O. and Entekhabi, Dara and Gentine, Pierre and Holtzman, Nataniel M. and Katul, Gabriel G. and Liu, Yanlan and Longo, Marcos and Martinez-Vilalta, Jordi and McDowell, Nate and Meir, Patrick and Mencuccini, Maurizio and Mrad, Assaad and Novick, Kimberly A. and Oliveira, Rafael S. and Siqueira, Paul and Steele-Dunne, Susan C. and Thompson, David R. and Wang, Yujie and Wehr, Richard and Wood, Jeffrey D. and Xu, Xiangtao and Zuidema, Pieter A.},
     year = {2021},
     title = {Detecting forest response to droughts with global observations of vegetation water content},
-    journal = {Global change biology},
+    journal = {Global Change Biology},
     volume = {27},
     number = {23},
     pages = {6005--6024}
