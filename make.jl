@@ -1,8 +1,6 @@
 using Documenter
 
 
-
-
 # Pages to generate
 pages = Pair{Any,Any}[
     "Home"          => "index.md"        ,
@@ -13,19 +11,15 @@ pages = Pair{Any,Any}[
     "Posters"       => "posters.md"      ,
     "Seminars"      => "seminars.md"     ,
     "Dissertations" => "dissertations.md",
-]
-
-
+];
 
 
 # format the docs
-mathengine = MathJax(Dict(:TeX => Dict(:equationNumbers => Dict(:autoNumber => "AMS"), :Macros => Dict())))
+mathengine = MathJax(Dict(:TeX => Dict(:equationNumbers => Dict(:autoNumber => "AMS"), :Macros => Dict())));
 format = (Documenter).HTML(prettyurls    = get(ENV, "CI", nothing)=="true",
                            mathengine    = mathengine,
                            collapselevel = 1,
-                           assets        = ["assets/favicon.ico"])
-
-
+                           assets        = ["assets/favicon.ico"]);
 
 
 # build the docs
@@ -34,9 +28,7 @@ makedocs(
     format = format,
     clean = false,
     pages = pages
-)
-
-
+);
 
 
 # function to replace strings
@@ -52,8 +44,6 @@ function replace_html(file_name::String)
 
     return nothing
 end
-
-
 
 
 # Replace the strings
@@ -72,12 +62,10 @@ for page_name in ["publications", "datasets"]
 end
 
 
-
-
 # Deploy docs
 deploydocs(
     repo = "github.com/Yujie-W/PAGES.git",
     target = "build",
     devbranch = "main",
     push_preview = true,
-)
+);

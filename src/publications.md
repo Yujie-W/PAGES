@@ -109,29 +109,20 @@ New Phytologist. 227(2): 311–325.
 
 ### In press
 
+- R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
+    Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
+    [DOI](https://doi.org/10.5194/essd-2021-237)
+
 
 
 
 ### In review
 
-- R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
-    Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
-    [DOI](https://doi.org/10.5194/essd-2021-237)
-- **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
-    Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control.
 - **Y. Wang**, R. K. Braghiere, M. Longo, A. J. Norton, P. Köhler, R. Doughty, Y. Yin, A. A. Bloom, and C. Frankenberg.
     Modeling global carbon and water fluxes and hyperspectral canopy radiative transfer simultaneously using a next generation land surface model-CliMA Land.
     [DOI](https://doi.org/10.1002/essoar.10509956.1)
-
-
-
-
-### In preparation
-
 - **Y. Wang**, P. Köhler, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
-    GriddingMachine: A database and software for earth system modeling at the global and regional scales.
-- **Y. Wang**, P. Köhler, and C. Frankenberg.
-    Canopy structure explains the ratio between solar induced chlorophyll fluorescence (SIF) at different bands.
+    GriddingMachine: A database and software for earth system modeling at global and regional scales.
 
 
 
