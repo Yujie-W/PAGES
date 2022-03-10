@@ -33,11 +33,11 @@ Please contact Yujie Wang through [Github Issues](https://github.com/Yujie-W/PAG
 
 |**Model**   |**Verion & Option**  |**Complexity**|**Reference**                                                        |**Documentation**         |
 |:-----------|:--------------------|:-------------|:--------------------------------------------------------------------|:-------------------------|
-| CliMA Land | 0.1 Default         | KC-IJL       | [Wang et al. (2021)](https://doi.org/10.5194/gmd-2021-154)          |                          |
-|            | 0.1 1X              | 1C-1L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-2021-154)          |                          |
-|            | 0.1 2X              | 1C-2L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-2021-154)          |                          |
-|            | 0.1 KX              | KC-1L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-2021-154)          |                          |
-|            | 0.1 2KX             | KC-2L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-2021-154)          |                          |
+| CliMA Land | 0.1 Default         | KC-IJL       | [Wang et al. (2021)](https://doi.org/10.5194/gmd-14-6741-2021)      |                          |
+|            | 0.1 1X              | 1C-1L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-14-6741-2021)      |                          |
+|            | 0.1 2X              | 1C-2L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-14-6741-2021)      |                          |
+|            | 0.1 KX              | KC-1L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-14-6741-2021)      |                          |
+|            | 0.1 2KX             | KC-2L        | [Wang et al. (2021)](https://doi.org/10.5194/gmd-14-6741-2021)      |                          |
 | CLM        | 4.0                 | 1C-2L        | [Bonan et al. (2011)](https://doi.org/10.1029/2010JG001593)         | CLM 4.0 Tech Notes       |
 |            | 4.5                 | 1C-2L        | [Lawrence et al. (2019)](https://doi.org/10.1029/2018MS001583)      | CLM 4.5 Tech Notes       |
 |            | 5.0                 | 1C-2L        | [Lawrence et al. (2019)](https://doi.org/10.1029/2018MS001583)      | CLM 5.0 Tech Notes       |
