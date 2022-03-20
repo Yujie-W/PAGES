@@ -123,6 +123,8 @@ New Phytologist. 227(2): 311–325.
     [DOI](https://doi.org/10.1002/essoar.10509956.1)
 - **Y. Wang**, P. Köhler, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
     GriddingMachine: A database and software for earth system modeling at global and regional scales.
+- R. K. Braghiere, **Y. Wang**, A. Gagné-Landmann, P. G. Brodrick, A. A. Bloom, A. J. Norton, S. Ma, P. Levine, M. Longo, K. Deck, P. Gentine, J. R. Worden, C. Frankenberg, and T. Schneider.
+    Hyperspectral soil albedo in Earth system models significantly impacts radiative forcing bias.
 
 
 
