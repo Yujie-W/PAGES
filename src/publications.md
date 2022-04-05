@@ -9,11 +9,6 @@ Click to display / hide the Bibtex information.
 
 ### In press
 
-!!! note "doughty2022global"
-    R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
-    Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
-    [DOI](https://doi.org/10.5194/essd-2021-237)
-
 
 
 
@@ -38,6 +33,29 @@ Click to display / hide the Bibtex information.
 ## Published
 
 ### 2022
+
+!!! note "doughty2022global"
+    <details>
+    <summary>
+    R. Doughty, T. Kurosu, N. Parazoo, P. Köhler, **Y. Wang**, Y. Sun, C. Frankenberg.
+    Global GOSAT, OCO-2 and OCO-3 solar induced chlorophyll fluorescence datasets.
+    Earth System Science Data. 14(4): 1513-1529.
+    [DOI](https://doi.org/10.5194/essd-14-1513-2022)
+    [PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/doughty2022global.pdf)
+    </summary>
+
+    ```
+    @article{doughty2022global,
+	    author = {Doughty, R. and Kurosu, T. P. and Parazoo, N. and K{\"o}hler, P. and Wang, Y. and Sun, Y. and Frankenberg, C.},
+	    year = {2022},
+	    title = {Global GOSAT, OCO-2, and OCO-3 solar-induced chlorophyll fluorescence datasets},
+	    journal = {Earth System Science Data},
+	    volume = {14},
+	    number = {4},
+	    pages = {1513--1529}
+    }
+    ```
+    </details>
 
 !!! warning "wang2022impact"
     <details>
