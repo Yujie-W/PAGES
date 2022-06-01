@@ -19,13 +19,14 @@ Click to display / hide the Bibtex information.
     Modeling global carbon and water fluxes and hyperspectral canopy radiative transfer simultaneously using a next generation land surface model-CliMA Land.
     [DOI](https://doi.org/10.1002/essoar.10509956.1)
 
-!!! warning "in review"
-    **Y. Wang**, P. Köhler, R. K. Braghiere, M. Longo, R. Doughty, A. Bloom, and C. Frankenberg.
-    GriddingMachine: A database and software for earth system modeling at global and regional scales.
-
 !!! note "in review"
     R. K. Braghiere, **Y. Wang**, A. Gagné-Landmann, P. G. Brodrick, A. A. Bloom, A. J. Norton, S. Ma, P. Levine, M. Longo, K. Deck, P. Gentine, J. R. Worden, C. Frankenberg, and T. Schneider.
     Hyperspectral soil albedo in Earth system models significantly impacts radiative forcing bias.
+
+!!! warning "in review"
+    **Y. Wang**, C. Frankenberg.
+    Technical Notes: Common ambiguities in plant hydraulics.
+    [DOI](https://doi.org/10.5194/bg-2022-96)
 
 
 
@@ -33,6 +34,29 @@ Click to display / hide the Bibtex information.
 ## Published
 
 ### 2022
+
+!!! warning "wang2022griddingmachine"
+    <details>
+    <summary>
+    **Y. Wang**, P. Köhler, R. K. Braghiere, M. Longo, R. Doughty, A. A. Bloom, and C. Frankenberg. 2022.
+    GriddingMachine, a database and software for Earth system modeling at global and regional scales.
+    Scientific Data. 9: 258.
+    [DOI](https://doi.org/10.1038/s41597-022-01346-x)
+    [PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2022griddingmachine.pdf)
+    [CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+    </summary>
+
+    ```
+    @article{wang2022griddingmachine,
+	    author = {Wang, Yujie and K{\"o}hler, Philipp and Braghiere, Renato K. and Longo, Marcos and Doughty, Russell and Bloom, A. Anthony and Frankenberg, Christian},
+	    year = {2022},
+	    title = {GriddingMachine, a database and software for {Earth} system modeling at global and regional scales},
+	    journal = {Scientific Data},
+	    volume = {9},
+	    pages = {258}
+    }
+    ```
+    </details>
 
 !!! note "doughty2022global"
     <details>
