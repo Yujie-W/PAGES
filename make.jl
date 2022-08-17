@@ -11,6 +11,7 @@ pages = Pair{Any,Any}[
     "Posters"       => "posters.md"      ,
     "Seminars"      => "seminars.md"     ,
     "Dissertations" => "dissertations.md",
+    "Blogs"         => "blogs.md"        ,
 ];
 
 
