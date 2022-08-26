@@ -7,11 +7,6 @@ Click to display / hide the Bibtex information.
 
 ## Pending
 
-### In press
-
-
-
-
 ### In review
 
 !!! warning "in review + preprint"
@@ -23,14 +18,19 @@ Click to display / hide the Bibtex information.
     R. K. Braghiere, **Y. Wang**, A. Gagné-Landmann, P. G. Brodrick, A. A. Bloom, A. J. Norton, S. Ma, P. Levine, M. Longo, K. Deck, P. Gentine, J. R. Worden, C. Frankenberg, and T. Schneider.
     Hyperspectral soil albedo in Earth system models significantly impacts radiative forcing bias.
 
-!!! warning "in review + preprint"
-    **Y. Wang**, C. Frankenberg.
-    Technical Notes: Common ambiguities in plant hydraulics.
-    [DOI](https://doi.org/10.5194/bg-2022-96)
-
 !!! note "in review"
     X. Liang, D. Wang, Q. Ye, J. Zhang, M. Liu, H. Liu, K. Yu, **Y. Wang**, E. Hou, L. Xu, and D. S. Ellsworth.
     Stomatal responses of terrestrial plants to global change.
+
+
+
+
+### In press
+
+!!! warning "wang2022common"
+    **Y. Wang**, C. Frankenberg.
+    Technical Notes: Common ambiguities in plant hydraulics.
+    [DOI](https://doi.org/10.5194/bg-2022-96)
 
 
 
