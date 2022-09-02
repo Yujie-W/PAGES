@@ -22,6 +22,11 @@ Click to display / hide the Bibtex information.
     X. Liang, D. Wang, Q. Ye, J. Zhang, M. Liu, H. Liu, K. Yu, **Y. Wang**, E. Hou, L. Xu, and D. S. Ellsworth.
     Stomatal responses of terrestrial plants to global change.
 
+!!! warning "in review + preprint"
+    **Y. Wang**, C. Frankenberg.
+    Technical note: Photosynthetic capacity estimation is dependent on model assumptions.
+    [DOI](https://doi.org/10.5194/bg-2022-172)
+
 
 
 
@@ -29,7 +34,7 @@ Click to display / hide the Bibtex information.
 
 !!! warning "wang2022common"
     **Y. Wang**, C. Frankenberg.
-    Technical Notes: Common ambiguities in plant hydraulics.
+    Technical note: Common ambiguities in plant hydraulics.
     [DOI](https://doi.org/10.5194/bg-2022-96)
 
 
