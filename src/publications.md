@@ -9,11 +9,6 @@ Click to display / hide the Bibtex information.
 
 ### In review
 
-!!! warning "in review + preprint"
-    **Y. Wang**, R. K. Braghiere, M. Longo, A. J. Norton, P. Köhler, R. Doughty, Y. Yin, A. A. Bloom, and C. Frankenberg.
-    Modeling global carbon and water fluxes and hyperspectral canopy radiative transfer simultaneously using a next generation land surface model-CliMA Land.
-    [DOI](https://doi.org/10.1002/essoar.10509956.1)
-
 !!! note "in review"
     R. K. Braghiere, **Y. Wang**, A. Gagné-Landmann, P. G. Brodrick, A. A. Bloom, A. J. Norton, S. Ma, P. Levine, M. Longo, K. Deck, P. Gentine, J. R. Worden, C. Frankenberg, and T. Schneider.
     Hyperspectral soil albedo in Earth system models significantly impacts radiative forcing bias.
@@ -39,6 +34,35 @@ Click to display / hide the Bibtex information.
 
 
 ## Published
+
+### 2023
+
+!!! warning "wang2023modeling"
+    <details>
+    <summary>
+    **Y. Wang**, R. K. Braghiere, M. Longo, A. J. Norton, P. Köhler, R. Doughty, Y. Yin, A. A. Bloom, and C. Frankenberg.
+    Modeling Global Vegetation Gross Primary Productivity, Transpiration and Hyperspectral Canopy Radiative Transfer Simultaneously Using a Next Generation Land Surface Model—CliMA Land.
+    [DOI](http://dx.doi.org/10.1029/2021MS002964)
+    [PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2023modeling.pdf)
+    [SI](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2023modeling-si.pdf)
+    [CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
+    </summary>
+
+    ```
+    @article{wang2022common,
+	    author = {Wang, Y. and Braghiere, R. K. and Longo, M. and Norton, A. J. and K{\"o}hler, P. and Doughty, R. and Yin, Y. and Bloom, A. A. and Frankenberg, C.},
+	    year = {2023},
+	    title = {Modeling Global Vegetation Gross Primary Productivity, Transpiration and Hyperspectral Canopy Radiative Transfer Simultaneously Using a Next Generation Land Surface Model—CliMA Land},
+	    journal = {Journal of Advances in Modeling Earth Systems},
+	    volume = {15},
+	    number = {3},
+	    pages = {e2021MS002964}
+    }
+    ```
+    </details>
+
+
+
 
 ### 2022
 
