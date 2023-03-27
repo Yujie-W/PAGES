@@ -10,17 +10,20 @@ Click to display / hide the Bibtex information.
 ### In review
 
 !!! note "in review"
+    N. Holtzman, **Y. Wang**, J. D. Wood, C. Frankenberg, and A. G. Konings
+    Constraining plant hydraulics with microwave radiometry in a land surface model: Impacts of temporal resolution.
+
+!!! note "in review"
     R. K. Braghiere, **Y. Wang**, A. Gagné-Landmann, P. G. Brodrick, A. A. Bloom, A. J. Norton, S. Ma, P. Levine, M. Longo, K. Deck, P. Gentine, J. R. Worden, C. Frankenberg, and T. Schneider.
     Hyperspectral soil albedo in Earth system models significantly impacts radiative forcing bias.
 
 !!! note "in review"
-    X. Liang, D. Wang, Q. Ye, J. Zhang, M. Liu, H. Liu, K. Yu, **Y. Wang**, E. Hou, L. Xu, and D. S. Ellsworth.
+    X. Liang, D. Wang, Q. Ye, J. Zhang, M. Liu, H. Liu, K. Yu, **Y. Wang**, E. Hou, B. Zhong, L. Xu, T. Lv, S. Peng, H. Lu, P. Sicard, A. Anav, and D. S. Ellsworth.
     Stomatal responses of terrestrial plants to global change.
 
 !!! warning "in review + preprint"
     **Y. Wang**, C. Frankenberg.
     Technical note: Photosynthetic capacity estimation is dependent on model assumptions.
-    [DOI](https://doi.org/10.5194/bg-2022-172)
 
 !!! warning "in review"
     **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
@@ -52,7 +55,7 @@ Click to display / hide the Bibtex information.
     @article{wang2022common,
 	    author = {Wang, Y. and Braghiere, R. K. and Longo, M. and Norton, A. J. and K{\"o}hler, P. and Doughty, R. and Yin, Y. and Bloom, A. A. and Frankenberg, C.},
 	    year = {2023},
-	    title = {Modeling Global Vegetation Gross Primary Productivity, Transpiration and Hyperspectral Canopy Radiative Transfer Simultaneously Using a Next Generation Land Surface Model—CliMA Land},
+	    title = {Modeling Global Vegetation Gross Primary Productivity, Transpiration and Hyperspectral Canopy Radiative Transfer Simultaneously Using a Next Generation Land Surface Model---CliMA Land},
 	    journal = {Journal of Advances in Modeling Earth Systems},
 	    volume = {15},
 	    number = {3},
