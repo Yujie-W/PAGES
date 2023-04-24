@@ -7,30 +7,6 @@ Click to display / hide the Bibtex information.
 
 ## Pending
 
-### In review
-
-!!! note "in review"
-    N. Holtzman, **Y. Wang**, J. D. Wood, C. Frankenberg, and A. G. Konings
-    Constraining plant hydraulics with microwave radiometry in a land surface model: Impacts of temporal resolution.
-
-!!! note "in review"
-    R. K. Braghiere, **Y. Wang**, A. Gagné-Landmann, P. G. Brodrick, A. A. Bloom, A. J. Norton, S. Ma, P. Levine, M. Longo, K. Deck, P. Gentine, J. R. Worden, C. Frankenberg, and T. Schneider.
-    Hyperspectral soil albedo in Earth system models significantly impacts radiative forcing bias.
-
-!!! note "in review"
-    X. Liang, D. Wang, Q. Ye, J. Zhang, M. Liu, H. Liu, K. Yu, **Y. Wang**, E. Hou, B. Zhong, L. Xu, T. Lv, S. Peng, H. Lu, P. Sicard, A. Anav, and D. S. Ellsworth.
-    Stomatal responses of terrestrial plants to global change.
-
-!!! warning "in review + preprint"
-    **Y. Wang**, C. Frankenberg.
-    Technical note: Photosynthetic capacity estimation is dependent on model assumptions.
-
-!!! warning "in review"
-    **Y. Wang**, W. R. L. Anderegg, and C. Frankenberg.
-    Xylem hydraulic safety and efficiency tradeoff is impacted by its coupling to stomatal control
-
-
-
 ### In press
 
 
@@ -40,11 +16,35 @@ Click to display / hide the Bibtex information.
 
 ### 2023
 
+!!! note "doughty2022global"
+    <details>
+    <summary>
+    X. Liang, D. Wang, Q. Ye, J. Zhang, M. Liu, H. Liu, K. Yu, **Y. Wang**, E. Hou, B. Zhong, L. Xu, T. Lv, S. Peng, H. Lu, P. Sicard, A. Anav, D. S. Ellsworth. 2023.
+    Stomatal responses of terrestrial plants to global change.
+    Nature Communications. 14(1): 2188
+    [DOI](https://doi.org/10.1038/s41467-023-37934-7)
+    [PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/liang2023stomatal.pdf)
+    </summary>
+
+    ```
+    @article{liang2023stomatal,
+        author = {Liang, X and Wang, D and Ye, Q and Zhang, J. and Liu, M and Liu, H and Yu, K and Wang, Y and Hou, E and Zhong, B and Xu, L and Lv, T and Peng, S and Lu, H and Sicard, P and Anav, A and Ellsworth, D S},
+        year = {2023},
+        title = {Stomatal responses of terrestrial plants to global change},
+        journal = {Nature Communications},
+        volume = {14},
+        number = {1},
+        pages = {2188}
+    }
+    ```
+    </details>
+
 !!! warning "wang2023modeling"
     <details>
     <summary>
     **Y. Wang**, R. K. Braghiere, M. Longo, A. J. Norton, P. Köhler, R. Doughty, Y. Yin, A. A. Bloom, and C. Frankenberg.
     Modeling Global Vegetation Gross Primary Productivity, Transpiration and Hyperspectral Canopy Radiative Transfer Simultaneously Using a Next Generation Land Surface Model—CliMA Land.
+    Journal of Advances in Modeling Earth Systems. 15(3): e2021MS002964.
     [DOI](http://dx.doi.org/10.1029/2021MS002964)
     [PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2023modeling.pdf)
     [SI](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2023modeling-si.pdf)
@@ -52,14 +52,14 @@ Click to display / hide the Bibtex information.
     </summary>
 
     ```
-    @article{wang2022common,
-	    author = {Wang, Y. and Braghiere, R. K. and Longo, M. and Norton, A. J. and K{\"o}hler, P. and Doughty, R. and Yin, Y. and Bloom, A. A. and Frankenberg, C.},
-	    year = {2023},
-	    title = {Modeling Global Vegetation Gross Primary Productivity, Transpiration and Hyperspectral Canopy Radiative Transfer Simultaneously Using a Next Generation Land Surface Model---CliMA Land},
-	    journal = {Journal of Advances in Modeling Earth Systems},
-	    volume = {15},
-	    number = {3},
-	    pages = {e2021MS002964}
+    @article{wang2023modeling,
+        author = {Wang, Y. and Braghiere, R. K. and Longo, M. and Norton, A. J. and K{\"o}hler, P. and Doughty, R. and Yin, Y. and Bloom, A. A. and Frankenberg, C.},
+        year = {2023},
+        title = {Modeling Global Vegetation Gross Primary Productivity, Transpiration and Hyperspectral Canopy Radiative Transfer Simultaneously Using a Next Generation Land Surface Model---CliMA Land},
+        journal = {Journal of Advances in Modeling Earth Systems},
+        volume = {15},
+        number = {3},
+        pages = {e2021MS002964}
     }
     ```
     </details>
@@ -74,6 +74,7 @@ Click to display / hide the Bibtex information.
     <summary>
     **Y. Wang**, and C. Frankenberg.
     Technical note: Common ambiguities in plant hydraulics.
+    Biogeosciences. 19(19): 4705-4714.
     [DOI](https://doi.org/10.5194/bg-19-4705-2022)
     [PDF](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG/raw/master/publications/wang2022common.pdf)
     [CODE](https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG)
@@ -81,13 +82,13 @@ Click to display / hide the Bibtex information.
 
     ```
     @article{wang2022common,
-	    author = {Wang, Y. and Frankenberg, C.},
-	    year = {2022},
-	    title = {Technical note: Common ambiguities in plant hydraulics},
-	    journal = {Biogeosciences},
-	    volume = {19},
-	    number = {19},
-	    pages = {4705--4714}
+        author = {Wang, Y. and Frankenberg, C.},
+        year = {2022},
+        title = {Technical note: Common ambiguities in plant hydraulics},
+        journal = {Biogeosciences},
+        volume = {19},
+        number = {19},
+        pages = {4705--4714}
     }
     ```
     </details>
@@ -105,12 +106,12 @@ Click to display / hide the Bibtex information.
 
     ```
     @article{wang2022griddingmachine,
-	    author = {Wang, Yujie and K{\"o}hler, Philipp and Braghiere, Renato K. and Longo, Marcos and Doughty, Russell and Bloom, A. Anthony and Frankenberg, Christian},
-	    year = {2022},
-	    title = {GriddingMachine, a database and software for {Earth} system modeling at global and regional scales},
-	    journal = {Scientific Data},
-	    volume = {9},
-	    pages = {258}
+        author = {Wang, Yujie and K{\"o}hler, Philipp and Braghiere, Renato K. and Longo, Marcos and Doughty, Russell and Bloom, A. Anthony and Frankenberg, Christian},
+        year = {2022},
+        title = {GriddingMachine, a database and software for {Earth} system modeling at global and regional scales},
+        journal = {Scientific Data},
+        volume = {9},
+        pages = {258}
     }
     ```
     </details>
@@ -127,13 +128,13 @@ Click to display / hide the Bibtex information.
 
     ```
     @article{doughty2022global,
-	    author = {Doughty, R. and Kurosu, T. P. and Parazoo, N. and K{\"o}hler, P. and Wang, Y. and Sun, Y. and Frankenberg, C.},
-	    year = {2022},
-	    title = {Global GOSAT, OCO-2, and OCO-3 solar-induced chlorophyll fluorescence datasets},
-	    journal = {Earth System Science Data},
-	    volume = {14},
-	    number = {4},
-	    pages = {1513--1529}
+        author = {Doughty, R. and Kurosu, T. P. and Parazoo, N. and K{\"o}hler, P. and Wang, Y. and Sun, Y. and Frankenberg, C.},
+        year = {2022},
+        title = {Global GOSAT, OCO-2, and OCO-3 solar-induced chlorophyll fluorescence datasets},
+        journal = {Earth System Science Data},
+        volume = {14},
+        number = {4},
+        pages = {1513--1529}
     }
     ```
     </details>
@@ -151,13 +152,13 @@ Click to display / hide the Bibtex information.
 
     ```
     @article{wang2022impact,
-    	author = {Wang, Y. and Frankenberg, C.},
-    	year = {2022},
-    	title = {On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes},
-    	journal = {Biogeosciences},
-    	volume = {19},
-    	number = {1},
-    	pages = {29--45}
+        author = {Wang, Y. and Frankenberg, C.},
+        year = {2022},
+        title = {On the impact of canopy model complexity on simulated carbon, water, and solar-induced chlorophyll fluorescence fluxes},
+        journal = {Biogeosciences},
+        volume = {19},
+        number = {1},
+        pages = {29--45}
     }
     ```
     </details>
